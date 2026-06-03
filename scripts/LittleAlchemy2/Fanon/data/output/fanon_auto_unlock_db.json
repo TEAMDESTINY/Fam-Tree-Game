@@ -1,0 +1,13 @@
+{
+  "items": {
+    "Fanon:Left": {
+      "unlock_condition": "Available after 50 elements have been unlocked"
+    },
+    "Fanon:Next": {
+      "unlock_condition": "Available after 50 elements have been unlocked"
+    },
+    "Fanon:Right": {
+      "unlock_condition": "Available after 50 elements have been unlocked"
+    }
+  }
+}

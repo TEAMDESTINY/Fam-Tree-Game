@@ -1,0 +1,3878 @@
+[
+	{
+		"word": "cobra",
+		"category": "Animal - Wild",
+		"hint": "Hooded snake",
+		"alt_word": []
+	},
+	{
+		"word": "tiger",
+		"category": "Animal - Wild",
+		"hint": "Striped big cat",
+		"alt_word": []
+	},
+	{
+		"word": "lion",
+		"category": "Animal - Wild",
+		"hint": "King of the jungle",
+		"alt_word": []
+	},
+	{
+		"word": "wolf",
+		"category": "Animal - Wild",
+		"hint": "Howls at the moon",
+		"alt_word": ["wolves"]
+	},
+	{
+		"word": "bear",
+		"category": "Animal - Wild",
+		"hint": "Big furry predator",
+		"alt_word": []
+	},
+	{
+		"word": "fox",
+		"category": "Animal - Wild",
+		"hint": "Clever red animal",
+		"alt_word": ["foxes"]
+	},
+	{
+		"word": "deer",
+		"category": "Animal - Wild",
+		"hint": "Has antlers",
+		"alt_word": []
+	},
+	{
+		"word": "moose",
+		"category": "Animal - Wild",
+		"hint": "Huge deer with wide antlers",
+		"alt_word": []
+	},
+	{
+		"word": "zebra",
+		"category": "Animal - Wild",
+		"hint": "Black and white stripes",
+		"alt_word": []
+	},
+	{
+		"word": "giraffe",
+		"category": "Animal - Wild",
+		"hint": "Very long neck",
+		"alt_word": []
+	},
+	{
+		"word": "elephant",
+		"category": "Animal - Wild",
+		"hint": "Has a long trunk",
+		"alt_word": []
+	},
+	{
+		"word": "gorilla",
+		"category": "Animal - Wild",
+		"hint": "Big ape",
+		"alt_word": []
+	},
+	{
+		"word": "monkey",
+		"category": "Animal - Wild",
+		"hint": "Swings from trees",
+		"alt_word": []
+	},
+	{
+		"word": "panda",
+		"category": "Animal - Wild",
+		"hint": "Black and white bear",
+		"alt_word": []
+	},
+	{
+		"word": "koala",
+		"category": "Animal - Wild",
+		"hint": "Sleepy Australian animal",
+		"alt_word": []
+	},
+	{
+		"word": "kangaroo",
+		"category": "Animal - Wild",
+		"hint": "Has a pouch",
+		"alt_word": []
+	},
+	{
+		"word": "crocodile",
+		"category": "Animal - Wild",
+		"hint": "Big scaly river predator",
+		"alt_word": ["croc"]
+	},
+	{
+		"word": "penguin",
+		"category": "Animal - Wild",
+		"hint": "Bird that cannot fly",
+		"alt_word": []
+	},
+	{
+		"word": "dolphin",
+		"category": "Animal - Wild",
+		"hint": "Smart sea mammal",
+		"alt_word": []
+	},
+	{
+		"word": "shark",
+		"category": "Animal - Wild",
+		"hint": "Scary fish with sharp teeth",
+		"alt_word": []
+	},
+	{
+		"word": "whale",
+		"category": "Animal - Wild",
+		"hint": "Biggest animal in the ocean",
+		"alt_word": []
+	},
+	{
+		"word": "frog",
+		"category": "Animal - Wild",
+		"hint": "Jumps and croaks",
+		"alt_word": []
+	},
+	{
+		"word": "parrot",
+		"category": "Animal - Wild",
+		"hint": "Colorful talking bird",
+		"alt_word": []
+	},
+	{
+		"word": "hyena",
+		"category": "Animal - Wild",
+		"hint": "Laughing carnivore",
+		"alt_word": []
+	},
+	{
+		"word": "squirrel",
+		"category": "Animal - Wild",
+		"hint": "Collects nuts",
+		"alt_word": []
+	},
+	{
+		"word": "cheetah",
+		"category": "Animal - Wild",
+		"hint": "Fastest land animal",
+		"alt_word": []
+	},
+	{
+		"word": "leopard",
+		"category": "Animal - Wild",
+		"hint": "Spotted big cat",
+		"alt_word": []
+	},
+	{
+		"word": "rhino",
+		"category": "Animal - Wild",
+		"hint": "Big animal with a horn on its nose",
+		"alt_word": ["rhinoceros"]
+	},
+	{
+		"word": "hippo",
+		"category": "Animal - Wild",
+		"hint": "Big river animal with huge mouth",
+		"alt_word": ["hippopotamus"]
+	},
+	{
+		"word": "flamingo",
+		"category": "Animal - Wild",
+		"hint": "Pink bird that stands on one leg",
+		"alt_word": []
+	},
+	{
+		"word": "ostrich",
+		"category": "Animal - Wild",
+		"hint": "Tallest bird in the world",
+		"alt_word": []
+	},
+	{
+		"word": "eagle",
+		"category": "Animal - Wild",
+		"hint": "Large bird of prey",
+		"alt_word": []
+	},
+	{
+		"word": "owl",
+		"category": "Animal - Wild",
+		"hint": "Wise bird that hoots at night",
+		"alt_word": []
+	},
+	{
+		"word": "bat",
+		"category": "Animal - Wild",
+		"hint": "Flying mammal that uses echolocation",
+		"alt_word": []
+	},
+	{
+		"word": "otter",
+		"category": "Animal - Wild",
+		"hint": "Playful water mammal",
+		"alt_word": []
+	},
+	{
+		"word": "seal",
+		"category": "Animal - Wild",
+		"hint": "Flippered sea mammal",
+		"alt_word": []
+	},
+	{
+		"word": "walrus",
+		"category": "Animal - Wild",
+		"hint": "Big tusked sea animal",
+		"alt_word": []
+	},
+	{
+		"word": "polar bear",
+		"category": "Animal - Wild",
+		"hint": "White bear from the Arctic",
+		"alt_word": ["polar"]
+	},
+	{
+		"word": "jaguar",
+		"category": "Animal - Wild",
+		"hint": "Spotted big cat from South America",
+		"alt_word": []
+	},
+	{
+		"word": "bison",
+		"category": "Animal - Wild",
+		"hint": "Large shaggy American buffalo",
+		"alt_word": ["buffalo"]
+	},
+	{
+		"word": "iguana",
+		"category": "Animal - Wild",
+		"hint": "Large tropical lizard",
+		"alt_word": []
+	},
+	{
+		"word": "chameleon",
+		"category": "Animal - Wild",
+		"hint": "Lizard that changes color",
+		"alt_word": []
+	},
+	{
+		"word": "scorpion",
+		"category": "Animal - Wild",
+		"hint": "Has a stinging tail",
+		"alt_word": []
+	},
+	{
+		"word": "octopus",
+		"category": "Animal - Wild",
+		"hint": "Eight-armed sea creature",
+		"alt_word": []
+	},
+	{
+		"word": "jellyfish",
+		"category": "Animal - Wild",
+		"hint": "Translucent stinging sea creature",
+		"alt_word": []
+	},
+	{
+		"word": "stingray",
+		"category": "Animal - Wild",
+		"hint": "Flat ocean creature with a tail spine",
+		"alt_word": ["ray"]
+	},
+	{
+		"word": "crab",
+		"category": "Animal - Wild",
+		"hint": "Walks sideways with claws",
+		"alt_word": []
+	},
+	{
+		"word": "lobster",
+		"category": "Animal - Wild",
+		"hint": "Clawed red sea creature",
+		"alt_word": []
+	},
+	{
+		"word": "vulture",
+		"category": "Animal - Wild",
+		"hint": "Large bird that eats dead animals",
+		"alt_word": []
+	},
+	{
+		"word": "peacock",
+		"category": "Animal - Wild",
+		"hint": "Bird with a beautiful tail fan",
+		"alt_word": []
+	},
+	{
+		"word": "toucan",
+		"category": "Animal - Wild",
+		"hint": "Tropical bird with a huge beak",
+		"alt_word": []
+	},
+	{
+		"word": "meerkat",
+		"category": "Animal - Wild",
+		"hint": "Small animal that stands upright on lookout",
+		"alt_word": []
+	},
+	{
+		"word": "armadillo",
+		"category": "Animal - Wild",
+		"hint": "Has a hard armored shell",
+		"alt_word": []
+	},
+	{
+		"word": "dog",
+		"category": "Animal - Pet",
+		"hint": "Man's best friend",
+		"alt_word": ["puppy"]
+	},
+	{
+		"word": "cat",
+		"category": "Animal - Pet",
+		"hint": "Purrs and meows",
+		"alt_word": ["kitten"]
+	},
+	{
+		"word": "rabbit",
+		"category": "Animal - Pet",
+		"hint": "Fluffy and hops",
+		"alt_word": ["bunny"]
+	},
+	{
+		"word": "hamster",
+		"category": "Animal - Pet",
+		"hint": "Runs on a wheel",
+		"alt_word": []
+	},
+	{
+		"word": "goldfish",
+		"category": "Animal - Pet",
+		"hint": "Lives in a bowl",
+		"alt_word": []
+	},
+	{
+		"word": "turtle",
+		"category": "Animal - Pet",
+		"hint": "Slow and has a shell",
+		"alt_word": ["tortoise"]
+	},
+	{
+		"word": "ferret",
+		"category": "Animal - Pet",
+		"hint": "Playful and long-bodied",
+		"alt_word": []
+	},
+	{
+		"word": "gecko",
+		"category": "Animal - Pet",
+		"hint": "Small lizard",
+		"alt_word": ["lizard"]
+	},
+	{
+		"word": "parrot",
+		"category": "Animal - Pet",
+		"hint": "Colorful bird that can talk",
+		"alt_word": []
+	},
+	{
+		"word": "guinea pig",
+		"category": "Animal - Pet",
+		"hint": "Small furry rodent that squeaks",
+		"alt_word": ["guinea"]
+	},
+	{
+		"word": "budgie",
+		"category": "Animal - Pet",
+		"hint": "Small colorful pet bird",
+		"alt_word": ["parakeet"]
+	},
+	{
+		"word": "snail",
+		"category": "Animal - Pet",
+		"hint": "Slow creature in a spiral shell",
+		"alt_word": []
+	},
+	{
+		"word": "mouse",
+		"category": "Animal - Pet",
+		"hint": "Tiny rodent kept as a pet",
+		"alt_word": ["mice"]
+	},
+	{
+		"word": "chinchilla",
+		"category": "Animal - Pet",
+		"hint": "Super soft furry little rodent",
+		"alt_word": []
+	},
+	{
+		"word": "cow",
+		"category": "Animal - Farm",
+		"hint": "Gives us milk",
+		"alt_word": []
+	},
+	{
+		"word": "pig",
+		"category": "Animal - Farm",
+		"hint": "Rolls in mud",
+		"alt_word": ["piglet"]
+	},
+	{
+		"word": "horse",
+		"category": "Animal - Farm",
+		"hint": "People ride it",
+		"alt_word": []
+	},
+	{
+		"word": "chicken",
+		"category": "Animal - Farm",
+		"hint": "Lays eggs",
+		"alt_word": ["hen"]
+	},
+	{
+		"word": "goat",
+		"category": "Animal - Farm",
+		"hint": "Horned and climbs rocks",
+		"alt_word": []
+	},
+	{
+		"word": "sheep",
+		"category": "Animal - Farm",
+		"hint": "Covered in wool",
+		"alt_word": ["lamb"]
+	},
+	{
+		"word": "duck",
+		"category": "Animal - Farm",
+		"hint": "Quacks and swims",
+		"alt_word": []
+	},
+	{
+		"word": "donkey",
+		"category": "Animal - Farm",
+		"hint": "Stubborn working animal",
+		"alt_word": ["mule"]
+	},
+	{
+		"word": "rooster",
+		"category": "Animal - Farm",
+		"hint": "Male chicken that crows at dawn",
+		"alt_word": ["cockerel"]
+	},
+	{
+		"word": "turkey",
+		"category": "Animal - Farm",
+		"hint": "Large bird eaten at Thanksgiving",
+		"alt_word": []
+	},
+	{
+		"word": "llama",
+		"category": "Animal - Farm",
+		"hint": "Fluffy South American pack animal",
+		"alt_word": ["alpaca"]
+	},
+	{
+		"word": "rabbit",
+		"category": "Animal - Farm",
+		"hint": "Kept on farms for meat and fur",
+		"alt_word": ["bunny"]
+	},
+	{
+		"word": "pizza",
+		"category": "Food - Meals",
+		"hint": "Round cheesy Italian dish",
+		"alt_word": []
+	},
+	{
+		"word": "burger",
+		"category": "Food - Meals",
+		"hint": "Patty in a bun",
+		"alt_word": ["hamburger"]
+	},
+	{
+		"word": "sushi",
+		"category": "Food - Meals",
+		"hint": "Japanese rice rolls",
+		"alt_word": []
+	},
+	{
+		"word": "pasta",
+		"category": "Food - Meals",
+		"hint": "Italian noodles",
+		"alt_word": []
+	},
+	{
+		"word": "taco",
+		"category": "Food - Meals",
+		"hint": "Folded Mexican tortilla",
+		"alt_word": []
+	},
+	{
+		"word": "soup",
+		"category": "Food - Meals",
+		"hint": "Hot liquid meal",
+		"alt_word": []
+	},
+	{
+		"word": "salad",
+		"category": "Food - Meals",
+		"hint": "Bowl of vegetables",
+		"alt_word": []
+	},
+	{
+		"word": "sandwich",
+		"category": "Food - Meals",
+		"hint": "Filling between two slices of bread",
+		"alt_word": ["sub", "sarnie"]
+	},
+	{
+		"word": "steak",
+		"category": "Food - Meals",
+		"hint": "Thick slice of beef",
+		"alt_word": []
+	},
+	{
+		"word": "curry",
+		"category": "Food - Meals",
+		"hint": "Spicy sauce dish",
+		"alt_word": []
+	},
+	{
+		"word": "stew",
+		"category": "Food - Meals",
+		"hint": "Thick chunky soup",
+		"alt_word": []
+	},
+	{
+		"word": "noodles",
+		"category": "Food - Meals",
+		"hint": "Long thin strings of dough",
+		"alt_word": ["noodle"]
+	},
+	{
+		"word": "pho",
+		"category": "Food - Meals",
+		"hint": "Vietnamese noodle soup",
+		"alt_word": []
+	},
+	{
+		"word": "waffles",
+		"category": "Food - Meals",
+		"hint": "Grid breakfast food",
+		"alt_word": ["waffle"]
+	},
+	{
+		"word": "pancake",
+		"category": "Food - Meals",
+		"hint": "Flat round breakfast",
+		"alt_word": ["pancakes"]
+	},
+	{
+		"word": "omelette",
+		"category": "Food - Meals",
+		"hint": "Folded cooked egg dish",
+		"alt_word": ["omelet"]
+	},
+	{
+		"word": "burrito",
+		"category": "Food - Meals",
+		"hint": "Wrapped Mexican tortilla filled with rice and beans",
+		"alt_word": []
+	},
+	{
+		"word": "quesadilla",
+		"category": "Food - Meals",
+		"hint": "Grilled tortilla with melted cheese",
+		"alt_word": []
+	},
+	{
+		"word": "lasagna",
+		"category": "Food - Meals",
+		"hint": "Layered pasta bake",
+		"alt_word": ["lasagne"]
+	},
+	{
+		"word": "risotto",
+		"category": "Food - Meals",
+		"hint": "Creamy Italian rice dish",
+		"alt_word": []
+	},
+	{
+		"word": "paella",
+		"category": "Food - Meals",
+		"hint": "Spanish rice dish with seafood",
+		"alt_word": []
+	},
+	{
+		"word": "dim sum",
+		"category": "Food - Meals",
+		"hint": "Small Chinese dumplings",
+		"alt_word": ["dumpling", "dumplings"]
+	},
+	{
+		"word": "kebab",
+		"category": "Food - Meals",
+		"hint": "Grilled meat on a skewer",
+		"alt_word": []
+	},
+	{
+		"word": "porridge",
+		"category": "Food - Meals",
+		"hint": "Warm oat breakfast",
+		"alt_word": ["oatmeal"]
+	},
+	{
+		"word": "falafel",
+		"category": "Food - Meals",
+		"hint": "Fried chickpea balls",
+		"alt_word": []
+	},
+	{
+		"word": "hotdog",
+		"category": "Food - Meals",
+		"hint": "Sausage in a long bun",
+		"alt_word": ["hot dog"]
+	},
+	{
+		"word": "cake",
+		"category": "Food - Dessert",
+		"hint": "Sweet baked birthday treat",
+		"alt_word": []
+	},
+	{
+		"word": "cookie",
+		"category": "Food - Dessert",
+		"hint": "Small flat sweet snack",
+		"alt_word": ["biscuit"]
+	},
+	{
+		"word": "donut",
+		"category": "Food - Dessert",
+		"hint": "Sweet fried ring",
+		"alt_word": ["doughnut"]
+	},
+	{
+		"word": "pie",
+		"category": "Food - Dessert",
+		"hint": "Pastry with filling",
+		"alt_word": []
+	},
+	{
+		"word": "gelato",
+		"category": "Food - Dessert",
+		"hint": "Italian ice cream",
+		"alt_word": ["ice cream"]
+	},
+	{
+		"word": "chocolate",
+		"category": "Food - Dessert",
+		"hint": "Sweet brown treat",
+		"alt_word": []
+	},
+	{
+		"word": "candy",
+		"category": "Food - Dessert",
+		"hint": "Sweet sugary snack",
+		"alt_word": ["sweets", "lolly"]
+	},
+	{
+		"word": "brownie",
+		"category": "Food - Dessert",
+		"hint": "Fudgy chocolate square",
+		"alt_word": []
+	},
+	{
+		"word": "cupcake",
+		"category": "Food - Dessert",
+		"hint": "Small single-serving cake with frosting",
+		"alt_word": []
+	},
+	{
+		"word": "muffin",
+		"category": "Food - Dessert",
+		"hint": "Dome-shaped baked sweet treat",
+		"alt_word": []
+	},
+	{
+		"word": "cheesecake",
+		"category": "Food - Dessert",
+		"hint": "Creamy dessert on a biscuit base",
+		"alt_word": []
+	},
+	{
+		"word": "pudding",
+		"category": "Food - Dessert",
+		"hint": "Soft sweet creamy dessert",
+		"alt_word": []
+	},
+	{
+		"word": "tart",
+		"category": "Food - Dessert",
+		"hint": "Open pastry with a sweet filling",
+		"alt_word": []
+	},
+	{
+		"word": "macaron",
+		"category": "Food - Dessert",
+		"hint": "Colorful French sandwich cookie",
+		"alt_word": ["macaroon"]
+	},
+	{
+		"word": "tiramisu",
+		"category": "Food - Dessert",
+		"hint": "Italian coffee layered dessert",
+		"alt_word": []
+	},
+	{
+		"word": "sorbet",
+		"category": "Food - Dessert",
+		"hint": "Frozen fruity non-dairy dessert",
+		"alt_word": []
+	},
+	{
+		"word": "apple",
+		"category": "Food - Fruit",
+		"hint": "Red or green round fruit",
+		"alt_word": []
+	},
+	{
+		"word": "banana",
+		"category": "Food - Fruit",
+		"hint": "Yellow curved fruit",
+		"alt_word": []
+	},
+	{
+		"word": "mango",
+		"category": "Food - Fruit",
+		"hint": "Tropical orange fruit",
+		"alt_word": []
+	},
+	{
+		"word": "strawberry",
+		"category": "Food - Fruit",
+		"hint": "Small red fruit with seeds outside",
+		"alt_word": []
+	},
+	{
+		"word": "melon",
+		"category": "Food - Fruit",
+		"hint": "Large round sweet fruit",
+		"alt_word": []
+	},
+	{
+		"word": "kiwi",
+		"category": "Food - Fruit",
+		"hint": "Fuzzy brown fruit with green inside",
+		"alt_word": []
+	},
+	{
+		"word": "grape",
+		"category": "Food - Fruit",
+		"hint": "Small round fruit in a bunch",
+		"alt_word": ["grapes"]
+	},
+	{
+		"word": "lemon",
+		"category": "Food - Fruit",
+		"hint": "Sour yellow citrus fruit",
+		"alt_word": []
+	},
+	{
+		"word": "peach",
+		"category": "Food - Fruit",
+		"hint": "Soft fuzzy orange fruit",
+		"alt_word": []
+	},
+	{
+		"word": "pear",
+		"category": "Food - Fruit",
+		"hint": "Teardrop-shaped green fruit",
+		"alt_word": []
+	},
+	{
+		"word": "pineapple",
+		"category": "Food - Fruit",
+		"hint": "Tropical fruit with spiky skin",
+		"alt_word": []
+	},
+	{
+		"word": "watermelon",
+		"category": "Food - Fruit",
+		"hint": "Big green fruit with red inside",
+		"alt_word": []
+	},
+	{
+		"word": "cherry",
+		"category": "Food - Fruit",
+		"hint": "Small red fruit on a stem",
+		"alt_word": ["cherries"]
+	},
+	{
+		"word": "blueberry",
+		"category": "Food - Fruit",
+		"hint": "Tiny dark blue berry",
+		"alt_word": ["blueberries"]
+	},
+	{
+		"word": "raspberry",
+		"category": "Food - Fruit",
+		"hint": "Small bumpy red berry",
+		"alt_word": ["raspberries"]
+	},
+	{
+		"word": "blackberry",
+		"category": "Food - Fruit",
+		"hint": "Dark berry that grows on thorny bushes",
+		"alt_word": ["blackberries"]
+	},
+	{
+		"word": "coconut",
+		"category": "Food - Fruit",
+		"hint": "Hairy brown tropical fruit with white inside",
+		"alt_word": []
+	},
+	{
+		"word": "pomegranate",
+		"category": "Food - Fruit",
+		"hint": "Round fruit filled with red seeds",
+		"alt_word": []
+	},
+	{
+		"word": "fig",
+		"category": "Food - Fruit",
+		"hint": "Sweet soft fruit with tiny seeds",
+		"alt_word": ["figs"]
+	},
+	{
+		"word": "plum",
+		"category": "Food - Fruit",
+		"hint": "Small dark purple fruit",
+		"alt_word": ["plums"]
+	},
+	{
+		"word": "apricot",
+		"category": "Food - Fruit",
+		"hint": "Small orange fruit like a tiny peach",
+		"alt_word": []
+	},
+	{
+		"word": "avocado",
+		"category": "Food - Fruit",
+		"hint": "Creamy green fruit used in guacamole",
+		"alt_word": ["avo"]
+	},
+	{
+		"word": "lime",
+		"category": "Food - Fruit",
+		"hint": "Small green sour citrus fruit",
+		"alt_word": []
+	},
+	{
+		"word": "orange",
+		"category": "Food - Fruit",
+		"hint": "Round citrus fruit you peel",
+		"alt_word": []
+	},
+	{
+		"word": "papaya",
+		"category": "Food - Fruit",
+		"hint": "Tropical orange fruit with black seeds",
+		"alt_word": []
+	},
+	{
+		"word": "lychee",
+		"category": "Food - Fruit",
+		"hint": "Small tropical fruit with rough red skin",
+		"alt_word": []
+	},
+	{
+		"word": "carrot",
+		"category": "Food - Vegetable",
+		"hint": "Orange root rabbits love",
+		"alt_word": []
+	},
+	{
+		"word": "onion",
+		"category": "Food - Vegetable",
+		"hint": "Makes you cry when cut",
+		"alt_word": []
+	},
+	{
+		"word": "cucumber",
+		"category": "Food - Vegetable",
+		"hint": "Long cool green vegetable",
+		"alt_word": []
+	},
+	{
+		"word": "spinach",
+		"category": "Food - Vegetable",
+		"hint": "Dark leafy green",
+		"alt_word": []
+	},
+	{
+		"word": "tomato",
+		"category": "Food - Vegetable",
+		"hint": "Red and used in sauce",
+		"alt_word": []
+	},
+	{
+		"word": "corn",
+		"category": "Food - Vegetable",
+		"hint": "Yellow kernels on a cob",
+		"alt_word": ["maize"]
+	},
+	{
+		"word": "broccoli",
+		"category": "Food - Vegetable",
+		"hint": "Looks like a tiny tree",
+		"alt_word": []
+	},
+	{
+		"word": "potato",
+		"category": "Food - Vegetable",
+		"hint": "Made into fries or mash",
+		"alt_word": []
+	},
+	{
+		"word": "mushroom",
+		"category": "Food - Vegetable",
+		"hint": "Fungus that grows in the forest",
+		"alt_word": []
+	},
+	{
+		"word": "pepper",
+		"category": "Food - Vegetable",
+		"hint": "Colorful bell-shaped vegetable",
+		"alt_word": ["bell pepper", "capsicum"]
+	},
+	{
+		"word": "garlic",
+		"category": "Food - Vegetable",
+		"hint": "Strong-smelling bulb used in cooking",
+		"alt_word": []
+	},
+	{
+		"word": "pumpkin",
+		"category": "Food - Vegetable",
+		"hint": "Orange carved for Halloween",
+		"alt_word": []
+	},
+	{
+		"word": "zucchini",
+		"category": "Food - Vegetable",
+		"hint": "Long green summer squash",
+		"alt_word": ["courgette"]
+	},
+	{
+		"word": "eggplant",
+		"category": "Food - Vegetable",
+		"hint": "Dark purple vegetable",
+		"alt_word": ["aubergine"]
+	},
+	{
+		"word": "celery",
+		"category": "Food - Vegetable",
+		"hint": "Crunchy green stalk vegetable",
+		"alt_word": []
+	},
+	{
+		"word": "cabbage",
+		"category": "Food - Vegetable",
+		"hint": "Round leafy head vegetable",
+		"alt_word": []
+	},
+	{
+		"word": "cauliflower",
+		"category": "Food - Vegetable",
+		"hint": "White broccoli-like vegetable",
+		"alt_word": []
+	},
+	{
+		"word": "artichoke",
+		"category": "Food - Vegetable",
+		"hint": "Spiky layered vegetable with a heart",
+		"alt_word": []
+	},
+	{
+		"word": "asparagus",
+		"category": "Food - Vegetable",
+		"hint": "Long green spears you snap",
+		"alt_word": []
+	},
+	{
+		"word": "leek",
+		"category": "Food - Vegetable",
+		"hint": "Long green onion-like vegetable",
+		"alt_word": []
+	},
+	{
+		"word": "kale",
+		"category": "Food - Vegetable",
+		"hint": "Very healthy dark leafy green",
+		"alt_word": []
+	},
+	{
+		"word": "peas",
+		"category": "Food - Vegetable",
+		"hint": "Small round green vegetables in a pod",
+		"alt_word": ["pea"]
+	},
+	{
+		"word": "beetroot",
+		"category": "Food - Vegetable",
+		"hint": "Dark red root vegetable",
+		"alt_word": ["beet"]
+	},
+	{
+		"word": "radish",
+		"category": "Food - Vegetable",
+		"hint": "Small spicy red root vegetable",
+		"alt_word": []
+	},
+	{
+		"word": "turnip",
+		"category": "Food - Vegetable",
+		"hint": "Round purple and white root vegetable",
+		"alt_word": []
+	},
+	{
+		"word": "sweet potato",
+		"category": "Food - Vegetable",
+		"hint": "Orange root vegetable sweeter than a potato",
+		"alt_word": ["yam"]
+	},
+	{
+		"word": "sleeping",
+		"category": "Action - Body",
+		"hint": "Resting with eyes closed",
+		"alt_word": ["sleep"]
+	},
+	{
+		"word": "eating",
+		"category": "Action - Body",
+		"hint": "Chewing and swallowing food",
+		"alt_word": ["eat"]
+	},
+	{
+		"word": "drinking",
+		"category": "Action - Body",
+		"hint": "Swallowing a liquid",
+		"alt_word": ["drink"]
+	},
+	{
+		"word": "laughing",
+		"category": "Action - Body",
+		"hint": "Sound you make when something is funny",
+		"alt_word": ["laugh"]
+	},
+	{
+		"word": "crying",
+		"category": "Action - Body",
+		"hint": "Tears from your eyes",
+		"alt_word": ["cry"]
+	},
+	{
+		"word": "smiling",
+		"category": "Action - Body",
+		"hint": "Happy expression on your face",
+		"alt_word": ["smile"]
+	},
+	{
+		"word": "yawning",
+		"category": "Action - Body",
+		"hint": "Big open mouth when tired",
+		"alt_word": ["yawn"]
+	},
+	{
+		"word": "sneezing",
+		"category": "Action - Body",
+		"hint": "Sudden burst from your nose",
+		"alt_word": ["sneeze"]
+	},
+	{
+		"word": "blinking",
+		"category": "Action - Body",
+		"hint": "Eyes opening and closing fast",
+		"alt_word": ["blink"]
+	},
+	{
+		"word": "hugging",
+		"category": "Action - Body",
+		"hint": "Wrapping arms around someone",
+		"alt_word": ["hug"]
+	},
+	{
+		"word": "waving",
+		"category": "Action - Body",
+		"hint": "Hand gesture to say hello",
+		"alt_word": ["wave"]
+	},
+	{
+		"word": "coughing",
+		"category": "Action - Body",
+		"hint": "Clearing your throat loudly",
+		"alt_word": ["cough"]
+	},
+	{
+		"word": "stretching",
+		"category": "Action - Body",
+		"hint": "Extending your arms and legs wide",
+		"alt_word": ["stretch"]
+	},
+	{
+		"word": "breathing",
+		"category": "Action - Body",
+		"hint": "Taking air in and out of your lungs",
+		"alt_word": ["breathe"]
+	},
+	{
+		"word": "whispering",
+		"category": "Action - Body",
+		"hint": "Talking very quietly",
+		"alt_word": ["whisper"]
+	},
+	{
+		"word": "clapping",
+		"category": "Action - Body",
+		"hint": "Hitting your hands together",
+		"alt_word": ["clap"]
+	},
+	{
+		"word": "kissing",
+		"category": "Action - Body",
+		"hint": "Pressing lips to someone as a greeting",
+		"alt_word": ["kiss"]
+	},
+	{
+		"word": "pointing",
+		"category": "Action - Body",
+		"hint": "Extending your finger toward something",
+		"alt_word": ["point"]
+	},
+	{
+		"word": "nodding",
+		"category": "Action - Body",
+		"hint": "Moving your head up and down to say yes",
+		"alt_word": ["nod"]
+	},
+	{
+		"word": "shrugging",
+		"category": "Action - Body",
+		"hint": "Raising your shoulders to say I don't know",
+		"alt_word": ["shrug"]
+	},
+	{
+		"word": "walking",
+		"category": "Action - Movement",
+		"hint": "Moving on two feet slowly",
+		"alt_word": ["walk"]
+	},
+	{
+		"word": "running",
+		"category": "Action - Movement",
+		"hint": "Moving on two feet fast",
+		"alt_word": ["run"]
+	},
+	{
+		"word": "jumping",
+		"category": "Action - Movement",
+		"hint": "Pushing off the ground into the air",
+		"alt_word": ["jump"]
+	},
+	{
+		"word": "climbing",
+		"category": "Action - Movement",
+		"hint": "Going up with hands and feet",
+		"alt_word": ["climb"]
+	},
+	{
+		"word": "falling",
+		"category": "Action - Movement",
+		"hint": "Dropping to the ground",
+		"alt_word": ["fall"]
+	},
+	{
+		"word": "dancing",
+		"category": "Action - Movement",
+		"hint": "Moving to music",
+		"alt_word": ["dance"]
+	},
+	{
+		"word": "swimming",
+		"category": "Action - Movement",
+		"hint": "Moving through water",
+		"alt_word": ["swim"]
+	},
+	{
+		"word": "crawling",
+		"category": "Action - Movement",
+		"hint": "Moving on hands and knees",
+		"alt_word": ["crawl"]
+	},
+	{
+		"word": "sliding",
+		"category": "Action - Movement",
+		"hint": "Gliding smoothly across a surface",
+		"alt_word": ["slide"]
+	},
+	{
+		"word": "spinning",
+		"category": "Action - Movement",
+		"hint": "Going around in circles",
+		"alt_word": ["spin"]
+	},
+	{
+		"word": "skipping",
+		"category": "Action - Movement",
+		"hint": "Hopping forward on alternating feet",
+		"alt_word": ["skip"]
+	},
+	{
+		"word": "leaping",
+		"category": "Action - Movement",
+		"hint": "A big long jump forward",
+		"alt_word": ["leap"]
+	},
+	{
+		"word": "rolling",
+		"category": "Action - Movement",
+		"hint": "Turning over and over on the ground",
+		"alt_word": ["roll"]
+	},
+	{
+		"word": "tiptoeing",
+		"category": "Action - Movement",
+		"hint": "Walking quietly on the tips of your toes",
+		"alt_word": ["tiptoe"]
+	},
+	{
+		"word": "marching",
+		"category": "Action - Movement",
+		"hint": "Walking in a stiff military style",
+		"alt_word": ["march"]
+	},
+	{
+		"word": "sneaking",
+		"category": "Action - Movement",
+		"hint": "Moving quietly so no one hears you",
+		"alt_word": ["sneak"]
+	},
+	{
+		"word": "flying",
+		"category": "Action - Movement",
+		"hint": "Moving through the air",
+		"alt_word": ["fly"]
+	},
+	{
+		"word": "floating",
+		"category": "Action - Movement",
+		"hint": "Drifting gently in water or air",
+		"alt_word": ["float"]
+	},
+	{
+		"word": "diving",
+		"category": "Action - Movement",
+		"hint": "Jumping headfirst into water",
+		"alt_word": ["dive"]
+	},
+	{
+		"word": "sprinting",
+		"category": "Action - Movement",
+		"hint": "Running as fast as you can",
+		"alt_word": ["sprint"]
+	},
+	{
+		"word": "cooking",
+		"category": "Action - Activity",
+		"hint": "Making food with heat",
+		"alt_word": ["cook"]
+	},
+	{
+		"word": "reading",
+		"category": "Action - Activity",
+		"hint": "Looking at words in a book",
+		"alt_word": ["read"]
+	},
+	{
+		"word": "writing",
+		"category": "Action - Activity",
+		"hint": "Putting words on paper",
+		"alt_word": ["write"]
+	},
+	{
+		"word": "drawing",
+		"category": "Action - Activity",
+		"hint": "Making pictures with a pencil",
+		"alt_word": ["draw"]
+	},
+	{
+		"word": "painting",
+		"category": "Action - Activity",
+		"hint": "Putting color on a canvas",
+		"alt_word": ["paint"]
+	},
+	{
+		"word": "singing",
+		"category": "Action - Activity",
+		"hint": "Making music with your voice",
+		"alt_word": ["sing"]
+	},
+	{
+		"word": "fishing",
+		"category": "Action - Activity",
+		"hint": "Catching fish with a rod",
+		"alt_word": ["fish"]
+	},
+	{
+		"word": "driving",
+		"category": "Action - Activity",
+		"hint": "Controlling a car",
+		"alt_word": ["drive"]
+	},
+	{
+		"word": "shopping",
+		"category": "Action - Activity",
+		"hint": "Buying things at a store",
+		"alt_word": ["shop"]
+	},
+	{
+		"word": "gardening",
+		"category": "Action - Activity",
+		"hint": "Growing plants outside",
+		"alt_word": ["garden"]
+	},
+	{
+		"word": "camping",
+		"category": "Action - Activity",
+		"hint": "Sleeping in a tent outdoors",
+		"alt_word": ["camp"]
+	},
+	{
+		"word": "hiking",
+		"category": "Action - Activity",
+		"hint": "Walking a long trail in nature",
+		"alt_word": ["hike"]
+	},
+	{
+		"word": "baking",
+		"category": "Action - Activity",
+		"hint": "Making bread or cakes in the oven",
+		"alt_word": ["bake"]
+	},
+	{
+		"word": "knitting",
+		"category": "Action - Activity",
+		"hint": "Making fabric with two needles and yarn",
+		"alt_word": ["knit"]
+	},
+	{
+		"word": "sewing",
+		"category": "Action - Activity",
+		"hint": "Stitching cloth together with needle and thread",
+		"alt_word": ["sew"]
+	},
+	{
+		"word": "typing",
+		"category": "Action - Activity",
+		"hint": "Pressing keys on a keyboard",
+		"alt_word": ["type"]
+	},
+	{
+		"word": "texting",
+		"category": "Action - Activity",
+		"hint": "Sending messages on a phone",
+		"alt_word": ["text"]
+	},
+	{
+		"word": "cycling",
+		"category": "Action - Activity",
+		"hint": "Riding a bicycle",
+		"alt_word": ["cycle", "biking", "bike"]
+	},
+	{
+		"word": "skating",
+		"category": "Action - Activity",
+		"hint": "Gliding on ice or wheels",
+		"alt_word": ["skate"]
+	},
+	{
+		"word": "surfing",
+		"category": "Action - Activity",
+		"hint": "Riding waves on a board",
+		"alt_word": ["surf"]
+	},
+	{
+		"word": "climbing",
+		"category": "Action - Activity",
+		"hint": "Scaling a rock face or wall",
+		"alt_word": ["climb"]
+	},
+	{
+		"word": "boxing",
+		"category": "Action - Activity",
+		"hint": "Punching with gloves",
+		"alt_word": ["box"]
+	},
+	{
+		"word": "meditating",
+		"category": "Action - Activity",
+		"hint": "Sitting quietly and clearing your mind",
+		"alt_word": ["meditate"]
+	},
+	{
+		"word": "praying",
+		"category": "Action - Activity",
+		"hint": "Speaking to a higher power with your eyes closed",
+		"alt_word": ["pray"]
+	},
+	{
+		"word": "exercising",
+		"category": "Action - Activity",
+		"hint": "Working out to stay fit",
+		"alt_word": ["exercise", "workout"]
+	},
+	{
+		"word": "stretching",
+		"category": "Action - Activity",
+		"hint": "Warming up your muscles before sport",
+		"alt_word": ["stretch"]
+	},
+	{
+		"word": "doctor",
+		"category": "Job",
+		"hint": "Treats sick people",
+		"alt_word": ["physician"]
+	},
+	{
+		"word": "teacher",
+		"category": "Job",
+		"hint": "Works in a school",
+		"alt_word": ["professor"]
+	},
+	{
+		"word": "chef",
+		"category": "Job",
+		"hint": "Cooks in a restaurant",
+		"alt_word": ["cook"]
+	},
+	{
+		"word": "pilot",
+		"category": "Job",
+		"hint": "Flies a plane",
+		"alt_word": []
+	},
+	{
+		"word": "nurse",
+		"category": "Job",
+		"hint": "Cares for patients",
+		"alt_word": []
+	},
+	{
+		"word": "farmer",
+		"category": "Job",
+		"hint": "Grows crops and raises animals",
+		"alt_word": []
+	},
+	{
+		"word": "baker",
+		"category": "Job",
+		"hint": "Makes bread and pastries",
+		"alt_word": []
+	},
+	{
+		"word": "artist",
+		"category": "Job",
+		"hint": "Creates paintings or sculptures",
+		"alt_word": ["painter"]
+	},
+	{
+		"word": "actor",
+		"category": "Job",
+		"hint": "Performs in movies or plays",
+		"alt_word": ["actress"]
+	},
+	{
+		"word": "singer",
+		"category": "Job",
+		"hint": "Performs songs on stage",
+		"alt_word": ["vocalist"]
+	},
+	{
+		"word": "driver",
+		"category": "Job",
+		"hint": "Operates a vehicle for work",
+		"alt_word": []
+	},
+	{
+		"word": "plumber",
+		"category": "Job",
+		"hint": "Fixes pipes and water systems",
+		"alt_word": []
+	},
+	{
+		"word": "dentist",
+		"category": "Job",
+		"hint": "Looks after your teeth",
+		"alt_word": []
+	},
+	{
+		"word": "lawyer",
+		"category": "Job",
+		"hint": "Argues cases in court",
+		"alt_word": ["attorney", "barrister"]
+	},
+	{
+		"word": "soldier",
+		"category": "Job",
+		"hint": "Serves in the army",
+		"alt_word": []
+	},
+	{
+		"word": "firefighter",
+		"category": "Job",
+		"hint": "Puts out fires",
+		"alt_word": ["fireman"]
+	},
+	{
+		"word": "police",
+		"category": "Job",
+		"hint": "Keeps the public safe",
+		"alt_word": ["officer", "cop"]
+	},
+	{
+		"word": "scientist",
+		"category": "Job",
+		"hint": "Does research and experiments",
+		"alt_word": []
+	},
+	{
+		"word": "builder",
+		"category": "Job",
+		"hint": "Constructs buildings",
+		"alt_word": ["construction worker"]
+	},
+	{
+		"word": "librarian",
+		"category": "Job",
+		"hint": "Manages books in a library",
+		"alt_word": []
+	},
+	{
+		"word": "waiter",
+		"category": "Job",
+		"hint": "Serves food at a restaurant",
+		"alt_word": ["waitress", "server"]
+	},
+	{
+		"word": "mechanic",
+		"category": "Job",
+		"hint": "Fixes cars and engines",
+		"alt_word": []
+	},
+	{
+		"word": "barber",
+		"category": "Job",
+		"hint": "Cuts your hair",
+		"alt_word": ["hairdresser"]
+	},
+	{
+		"word": "vet",
+		"category": "Job",
+		"hint": "Doctor for animals",
+		"alt_word": ["veterinarian"]
+	},
+	{
+		"word": "astronaut",
+		"category": "Job",
+		"hint": "Travels to outer space",
+		"alt_word": []
+	},
+	{
+		"word": "architect",
+		"category": "Job",
+		"hint": "Designs buildings",
+		"alt_word": []
+	},
+	{
+		"word": "accountant",
+		"category": "Job",
+		"hint": "Manages money and taxes",
+		"alt_word": []
+	},
+	{
+		"word": "engineer",
+		"category": "Job",
+		"hint": "Designs and builds machines or systems",
+		"alt_word": []
+	},
+	{
+		"word": "programmer",
+		"category": "Job",
+		"hint": "Writes computer code",
+		"alt_word": ["developer", "coder"]
+	},
+	{
+		"word": "journalist",
+		"category": "Job",
+		"hint": "Reports the news",
+		"alt_word": ["reporter"]
+	},
+	{
+		"word": "photographer",
+		"category": "Job",
+		"hint": "Takes professional photos",
+		"alt_word": []
+	},
+	{
+		"word": "designer",
+		"category": "Job",
+		"hint": "Creates visual products or fashion",
+		"alt_word": []
+	},
+	{
+		"word": "cashier",
+		"category": "Job",
+		"hint": "Takes payment at a shop",
+		"alt_word": []
+	},
+	{
+		"word": "surgeon",
+		"category": "Job",
+		"hint": "Operates on patients",
+		"alt_word": []
+	},
+	{
+		"word": "psychologist",
+		"category": "Job",
+		"hint": "Helps people with their mental health",
+		"alt_word": ["therapist"]
+	},
+	{
+		"word": "judge",
+		"category": "Job",
+		"hint": "Makes rulings in a courtroom",
+		"alt_word": []
+	},
+	{
+		"word": "referee",
+		"category": "Job",
+		"hint": "Enforces rules in a sport",
+		"alt_word": ["umpire"]
+	},
+	{
+		"word": "coach",
+		"category": "Job",
+		"hint": "Trains athletes or teams",
+		"alt_word": ["trainer"]
+	},
+	{
+		"word": "dancer",
+		"category": "Job",
+		"hint": "Performs dance professionally",
+		"alt_word": []
+	},
+	{
+		"word": "magician",
+		"category": "Job",
+		"hint": "Performs tricks and illusions",
+		"alt_word": []
+	},
+	{
+		"word": "clown",
+		"category": "Job",
+		"hint": "Makes people laugh in a silly costume",
+		"alt_word": []
+	},
+	{
+		"word": "sailor",
+		"category": "Job",
+		"hint": "Works on a ship at sea",
+		"alt_word": []
+	},
+	{
+		"word": "electrician",
+		"category": "Job",
+		"hint": "Installs and fixes electrical systems",
+		"alt_word": []
+	},
+	{
+		"word": "tailor",
+		"category": "Job",
+		"hint": "Makes and alters clothing",
+		"alt_word": ["seamstress"]
+	},
+	{
+		"word": "security",
+		"category": "Job",
+		"hint": "Guards a building or event",
+		"alt_word": ["guard", "bouncer"]
+	},
+	{
+		"word": "spy",
+		"category": "Job",
+		"hint": "Collects secret information",
+		"alt_word": ["agent"]
+	},
+	{
+		"word": "chair",
+		"category": "Object - Furniture",
+		"hint": "You sit on it",
+		"alt_word": []
+	},
+	{
+		"word": "table",
+		"category": "Object - Furniture",
+		"hint": "Flat surface you eat at",
+		"alt_word": ["desk"]
+	},
+	{
+		"word": "bed",
+		"category": "Object - Furniture",
+		"hint": "You sleep on it",
+		"alt_word": []
+	},
+	{
+		"word": "sofa",
+		"category": "Object - Furniture",
+		"hint": "Comfortable seat for the living room",
+		"alt_word": ["couch"]
+	},
+	{
+		"word": "shelf",
+		"category": "Object - Furniture",
+		"hint": "Board on a wall to store things",
+		"alt_word": ["shelves", "bookshelf"]
+	},
+	{
+		"word": "mirror",
+		"category": "Object - Furniture",
+		"hint": "Shows your reflection",
+		"alt_word": []
+	},
+	{
+		"word": "lamp",
+		"category": "Object - Furniture",
+		"hint": "Gives light in a room",
+		"alt_word": []
+	},
+	{
+		"word": "pillow",
+		"category": "Object - Furniture",
+		"hint": "Soft cushion for your head",
+		"alt_word": ["cushion"]
+	},
+	{
+		"word": "blanket",
+		"category": "Object - Furniture",
+		"hint": "Keeps you warm in bed",
+		"alt_word": ["duvet", "quilt"]
+	},
+	{
+		"word": "wardrobe",
+		"category": "Object - Furniture",
+		"hint": "Tall cupboard for storing clothes",
+		"alt_word": ["closet"]
+	},
+	{
+		"word": "dresser",
+		"category": "Object - Furniture",
+		"hint": "Chest of drawers for clothes",
+		"alt_word": ["chest of drawers"]
+	},
+	{
+		"word": "bookcase",
+		"category": "Object - Furniture",
+		"hint": "Unit with shelves for books",
+		"alt_word": ["bookshelf"]
+	},
+	{
+		"word": "armchair",
+		"category": "Object - Furniture",
+		"hint": "Padded single chair with armrests",
+		"alt_word": []
+	},
+	{
+		"word": "stool",
+		"category": "Object - Furniture",
+		"hint": "A seat with no back or arms",
+		"alt_word": []
+	},
+	{
+		"word": "hammock",
+		"category": "Object - Furniture",
+		"hint": "Swinging bed hung between two trees",
+		"alt_word": []
+	},
+	{
+		"word": "phone",
+		"category": "Object - Tech",
+		"hint": "Used to call and text",
+		"alt_word": ["mobile", "cellphone"]
+	},
+	{
+		"word": "laptop",
+		"category": "Object - Tech",
+		"hint": "Portable computer",
+		"alt_word": ["computer"]
+	},
+	{
+		"word": "camera",
+		"category": "Object - Tech",
+		"hint": "Takes photos",
+		"alt_word": []
+	},
+	{
+		"word": "remote",
+		"category": "Object - Tech",
+		"hint": "Controls the TV",
+		"alt_word": ["remote control"]
+	},
+	{
+		"word": "headphones",
+		"category": "Object - Tech",
+		"hint": "Worn on ears to listen to music",
+		"alt_word": ["earphones", "earbuds"]
+	},
+	{
+		"word": "keyboard",
+		"category": "Object - Tech",
+		"hint": "You type on it",
+		"alt_word": []
+	},
+	{
+		"word": "tablet",
+		"category": "Object - Tech",
+		"hint": "Flat touchscreen computer",
+		"alt_word": ["ipad"]
+	},
+	{
+		"word": "television",
+		"category": "Object - Tech",
+		"hint": "Screen for watching shows and movies",
+		"alt_word": ["tv", "telly"]
+	},
+	{
+		"word": "speaker",
+		"category": "Object - Tech",
+		"hint": "Plays music out loud",
+		"alt_word": []
+	},
+	{
+		"word": "microphone",
+		"category": "Object - Tech",
+		"hint": "Picks up your voice for recording",
+		"alt_word": ["mic"]
+	},
+	{
+		"word": "printer",
+		"category": "Object - Tech",
+		"hint": "Prints documents from a computer",
+		"alt_word": []
+	},
+	{
+		"word": "charger",
+		"category": "Object - Tech",
+		"hint": "Powers up your devices",
+		"alt_word": []
+	},
+	{
+		"word": "router",
+		"category": "Object - Tech",
+		"hint": "Device that provides WiFi",
+		"alt_word": ["modem", "wifi box"]
+	},
+	{
+		"word": "drone",
+		"category": "Object - Tech",
+		"hint": "Small flying device controlled remotely",
+		"alt_word": []
+	},
+	{
+		"word": "smartwatch",
+		"category": "Object - Tech",
+		"hint": "Watch that shows notifications and fitness data",
+		"alt_word": ["watch"]
+	},
+	{
+		"word": "calculator",
+		"category": "Object - Tech",
+		"hint": "Device for doing maths",
+		"alt_word": []
+	},
+	{
+		"word": "umbrella",
+		"category": "Object - Everyday",
+		"hint": "Keeps you dry in rain",
+		"alt_word": []
+	},
+	{
+		"word": "backpack",
+		"category": "Object - Everyday",
+		"hint": "Bag worn on your back",
+		"alt_word": ["bag", "rucksack"]
+	},
+	{
+		"word": "clock",
+		"category": "Object - Everyday",
+		"hint": "Shows the time",
+		"alt_word": []
+	},
+	{
+		"word": "scissors",
+		"category": "Object - Everyday",
+		"hint": "Two blades for cutting",
+		"alt_word": []
+	},
+	{
+		"word": "pencil",
+		"category": "Object - Everyday",
+		"hint": "You write and erase with it",
+		"alt_word": []
+	},
+	{
+		"word": "candle",
+		"category": "Object - Everyday",
+		"hint": "Wax stick that gives light",
+		"alt_word": []
+	},
+	{
+		"word": "bucket",
+		"category": "Object - Everyday",
+		"hint": "Carries water",
+		"alt_word": ["pail"]
+	},
+	{
+		"word": "ladder",
+		"category": "Object - Everyday",
+		"hint": "You climb up it",
+		"alt_word": []
+	},
+	{
+		"word": "rope",
+		"category": "Object - Everyday",
+		"hint": "Thick cord for tying",
+		"alt_word": []
+	},
+	{
+		"word": "coin",
+		"category": "Object - Everyday",
+		"hint": "Round metal money",
+		"alt_word": []
+	},
+	{
+		"word": "bottle",
+		"category": "Object - Everyday",
+		"hint": "Container for drinks",
+		"alt_word": []
+	},
+	{
+		"word": "key",
+		"category": "Object - Everyday",
+		"hint": "Opens a lock",
+		"alt_word": []
+	},
+	{
+		"word": "map",
+		"category": "Object - Everyday",
+		"hint": "Shows roads and places",
+		"alt_word": []
+	},
+	{
+		"word": "torch",
+		"category": "Object - Everyday",
+		"hint": "Handheld light in the dark",
+		"alt_word": ["flashlight"]
+	},
+	{
+		"word": "compass",
+		"category": "Object - Everyday",
+		"hint": "Needle always points north",
+		"alt_word": []
+	},
+	{
+		"word": "basket",
+		"category": "Object - Everyday",
+		"hint": "Woven container",
+		"alt_word": []
+	},
+	{
+		"word": "wallet",
+		"category": "Object - Everyday",
+		"hint": "Holds your cards and cash",
+		"alt_word": ["purse"]
+	},
+	{
+		"word": "glasses",
+		"category": "Object - Everyday",
+		"hint": "Worn on your face to help you see",
+		"alt_word": ["spectacles", "sunglasses"]
+	},
+	{
+		"word": "gloves",
+		"category": "Object - Everyday",
+		"hint": "Worn on your hands in cold weather",
+		"alt_word": ["mittens"]
+	},
+	{
+		"word": "envelope",
+		"category": "Object - Everyday",
+		"hint": "Paper sleeve for sending letters",
+		"alt_word": []
+	},
+	{
+		"word": "stamp",
+		"category": "Object - Everyday",
+		"hint": "Small sticker on an envelope to mail it",
+		"alt_word": []
+	},
+	{
+		"word": "broom",
+		"category": "Object - Everyday",
+		"hint": "Sweeps the floor",
+		"alt_word": []
+	},
+	{
+		"word": "mop",
+		"category": "Object - Everyday",
+		"hint": "Cleans the floor with water",
+		"alt_word": []
+	},
+	{
+		"word": "hammer",
+		"category": "Object - Everyday",
+		"hint": "Tool for banging nails",
+		"alt_word": []
+	},
+	{
+		"word": "screwdriver",
+		"category": "Object - Everyday",
+		"hint": "Tool for turning screws",
+		"alt_word": []
+	},
+	{
+		"word": "wrench",
+		"category": "Object - Everyday",
+		"hint": "Tool for tightening nuts and bolts",
+		"alt_word": ["spanner"]
+	},
+	{
+		"word": "ruler",
+		"category": "Object - Everyday",
+		"hint": "Measures length in straight lines",
+		"alt_word": []
+	},
+	{
+		"word": "stapler",
+		"category": "Object - Everyday",
+		"hint": "Binds papers together with metal clips",
+		"alt_word": []
+	},
+	{
+		"word": "tape",
+		"category": "Object - Everyday",
+		"hint": "Sticky roll used to seal or attach things",
+		"alt_word": ["sellotape", "scotch tape"]
+	},
+	{
+		"word": "guitar",
+		"category": "Object - Music",
+		"hint": "Stringed instrument you strum",
+		"alt_word": []
+	},
+	{
+		"word": "drum",
+		"category": "Object - Music",
+		"hint": "You hit it with sticks",
+		"alt_word": ["drums"]
+	},
+	{
+		"word": "piano",
+		"category": "Object - Music",
+		"hint": "Has black and white keys",
+		"alt_word": []
+	},
+	{
+		"word": "violin",
+		"category": "Object - Music",
+		"hint": "Small stringed instrument with a bow",
+		"alt_word": ["fiddle"]
+	},
+	{
+		"word": "trumpet",
+		"category": "Object - Music",
+		"hint": "Brass instrument you blow into",
+		"alt_word": []
+	},
+	{
+		"word": "flute",
+		"category": "Object - Music",
+		"hint": "Long thin wind instrument",
+		"alt_word": []
+	},
+	{
+		"word": "harp",
+		"category": "Object - Music",
+		"hint": "Tall triangular stringed instrument",
+		"alt_word": []
+	},
+	{
+		"word": "cello",
+		"category": "Object - Music",
+		"hint": "Large violin played between the knees",
+		"alt_word": []
+	},
+	{
+		"word": "saxophone",
+		"category": "Object - Music",
+		"hint": "Curved brass wind instrument",
+		"alt_word": ["sax"]
+	},
+	{
+		"word": "trombone",
+		"category": "Object - Music",
+		"hint": "Brass instrument with a sliding tube",
+		"alt_word": []
+	},
+	{
+		"word": "accordion",
+		"category": "Object - Music",
+		"hint": "Squeezebox with keys and buttons",
+		"alt_word": []
+	},
+	{
+		"word": "tambourine",
+		"category": "Object - Music",
+		"hint": "Round frame with jingling metal discs",
+		"alt_word": []
+	},
+	{
+		"word": "banjo",
+		"category": "Object - Music",
+		"hint": "Circular stringed instrument from American folk music",
+		"alt_word": []
+	},
+	{
+		"word": "ukulele",
+		"category": "Object - Music",
+		"hint": "Small four-stringed guitar from Hawaii",
+		"alt_word": ["uke"]
+	},
+	{
+		"word": "xylophone",
+		"category": "Object - Music",
+		"hint": "Hit colored bars to make music",
+		"alt_word": []
+	},
+	{
+		"word": "beach",
+		"category": "Place - Outdoor",
+		"hint": "Sandy shore by the sea",
+		"alt_word": []
+	},
+	{
+		"word": "forest",
+		"category": "Place - Outdoor",
+		"hint": "Large area of trees",
+		"alt_word": ["woods"]
+	},
+	{
+		"word": "desert",
+		"category": "Place - Outdoor",
+		"hint": "Hot dry sandy land",
+		"alt_word": []
+	},
+	{
+		"word": "mountain",
+		"category": "Place - Outdoor",
+		"hint": "Very tall rocky land",
+		"alt_word": []
+	},
+	{
+		"word": "island",
+		"category": "Place - Outdoor",
+		"hint": "Land surrounded by water",
+		"alt_word": []
+	},
+	{
+		"word": "jungle",
+		"category": "Place - Outdoor",
+		"hint": "Dense tropical forest",
+		"alt_word": ["rainforest"]
+	},
+	{
+		"word": "swamp",
+		"category": "Place - Outdoor",
+		"hint": "Wet muddy land",
+		"alt_word": ["marsh", "bog"]
+	},
+	{
+		"word": "volcano",
+		"category": "Place - Outdoor",
+		"hint": "Mountain that erupts with lava",
+		"alt_word": []
+	},
+	{
+		"word": "cave",
+		"category": "Place - Outdoor",
+		"hint": "Dark hollow inside a rock",
+		"alt_word": []
+	},
+	{
+		"word": "waterfall",
+		"category": "Place - Outdoor",
+		"hint": "Water falling off a cliff",
+		"alt_word": []
+	},
+	{
+		"word": "river",
+		"category": "Place - Outdoor",
+		"hint": "Long flowing body of water",
+		"alt_word": []
+	},
+	{
+		"word": "lake",
+		"category": "Place - Outdoor",
+		"hint": "Still body of water surrounded by land",
+		"alt_word": []
+	},
+	{
+		"word": "cliff",
+		"category": "Place - Outdoor",
+		"hint": "Steep rocky drop to the sea",
+		"alt_word": []
+	},
+	{
+		"word": "valley",
+		"category": "Place - Outdoor",
+		"hint": "Low land between two hills",
+		"alt_word": []
+	},
+	{
+		"word": "glacier",
+		"category": "Place - Outdoor",
+		"hint": "Huge slow-moving river of ice",
+		"alt_word": []
+	},
+	{
+		"word": "canyon",
+		"category": "Place - Outdoor",
+		"hint": "Deep gorge carved by a river",
+		"alt_word": ["gorge"]
+	},
+	{
+		"word": "meadow",
+		"category": "Place - Outdoor",
+		"hint": "Open grassy field",
+		"alt_word": ["field", "pasture"]
+	},
+	{
+		"word": "pond",
+		"category": "Place - Outdoor",
+		"hint": "Small body of still water",
+		"alt_word": []
+	},
+	{
+		"word": "ocean",
+		"category": "Place - Outdoor",
+		"hint": "Massive body of salt water",
+		"alt_word": ["sea"]
+	},
+	{
+		"word": "tundra",
+		"category": "Place - Outdoor",
+		"hint": "Flat treeless Arctic land",
+		"alt_word": []
+	},
+	{
+		"word": "school",
+		"category": "Place - Building",
+		"hint": "Where kids go to learn",
+		"alt_word": []
+	},
+	{
+		"word": "hospital",
+		"category": "Place - Building",
+		"hint": "Where sick people are treated",
+		"alt_word": []
+	},
+	{
+		"word": "library",
+		"category": "Place - Building",
+		"hint": "Full of books you can borrow",
+		"alt_word": []
+	},
+	{
+		"word": "airport",
+		"category": "Place - Building",
+		"hint": "Where planes take off",
+		"alt_word": []
+	},
+	{
+		"word": "stadium",
+		"category": "Place - Building",
+		"hint": "Big arena for sports",
+		"alt_word": ["arena"]
+	},
+	{
+		"word": "castle",
+		"category": "Place - Building",
+		"hint": "Stone fortress from the old days",
+		"alt_word": []
+	},
+	{
+		"word": "temple",
+		"category": "Place - Building",
+		"hint": "Place for worship and prayer",
+		"alt_word": ["shrine"]
+	},
+	{
+		"word": "prison",
+		"category": "Place - Building",
+		"hint": "Where people serve sentences",
+		"alt_word": ["jail"]
+	},
+	{
+		"word": "museum",
+		"category": "Place - Building",
+		"hint": "Has old and historical exhibits",
+		"alt_word": []
+	},
+	{
+		"word": "bakery",
+		"category": "Place - Building",
+		"hint": "Sells fresh bread and cakes",
+		"alt_word": []
+	},
+	{
+		"word": "pharmacy",
+		"category": "Place - Building",
+		"hint": "Sells medicine",
+		"alt_word": ["chemist", "drugstore"]
+	},
+	{
+		"word": "restaurant",
+		"category": "Place - Building",
+		"hint": "You go here to eat a meal",
+		"alt_word": []
+	},
+	{
+		"word": "hotel",
+		"category": "Place - Building",
+		"hint": "You stay here on holiday",
+		"alt_word": []
+	},
+	{
+		"word": "church",
+		"category": "Place - Building",
+		"hint": "Christian place of worship",
+		"alt_word": []
+	},
+	{
+		"word": "mosque",
+		"category": "Place - Building",
+		"hint": "Muslim place of worship",
+		"alt_word": []
+	},
+	{
+		"word": "synagogue",
+		"category": "Place - Building",
+		"hint": "Jewish place of worship",
+		"alt_word": []
+	},
+	{
+		"word": "theater",
+		"category": "Place - Building",
+		"hint": "You watch plays or shows here",
+		"alt_word": ["theatre", "cinema"]
+	},
+	{
+		"word": "supermarket",
+		"category": "Place - Building",
+		"hint": "Large shop selling food and groceries",
+		"alt_word": ["grocery store"]
+	},
+	{
+		"word": "gym",
+		"category": "Place - Building",
+		"hint": "Place to work out and lift weights",
+		"alt_word": []
+	},
+	{
+		"word": "office",
+		"category": "Place - Building",
+		"hint": "Where many people work at desks",
+		"alt_word": []
+	},
+	{
+		"word": "bank",
+		"category": "Place - Building",
+		"hint": "Where you keep and manage money",
+		"alt_word": []
+	},
+	{
+		"word": "post office",
+		"category": "Place - Building",
+		"hint": "Where you send mail and packages",
+		"alt_word": []
+	},
+	{
+		"word": "fire station",
+		"category": "Place - Building",
+		"hint": "Where firefighters and their trucks are based",
+		"alt_word": []
+	},
+	{
+		"word": "police station",
+		"category": "Place - Building",
+		"hint": "Where officers work and suspects are held",
+		"alt_word": []
+	},
+	{
+		"word": "zoo",
+		"category": "Place - Building",
+		"hint": "Visited to see wild animals in enclosures",
+		"alt_word": []
+	},
+	{
+		"word": "aquarium",
+		"category": "Place - Building",
+		"hint": "Has tanks of fish and sea creatures",
+		"alt_word": []
+	},
+	{
+		"word": "lighthouse",
+		"category": "Place - Building",
+		"hint": "Tall tower with a light to guide ships",
+		"alt_word": []
+	},
+	{
+		"word": "street",
+		"category": "Place - Urban",
+		"hint": "Paved road lined with buildings",
+		"alt_word": ["road"]
+	},
+	{
+		"word": "bridge",
+		"category": "Place - Urban",
+		"hint": "Crosses over a river or road",
+		"alt_word": []
+	},
+	{
+		"word": "tunnel",
+		"category": "Place - Urban",
+		"hint": "Passage underground",
+		"alt_word": []
+	},
+	{
+		"word": "market",
+		"category": "Place - Urban",
+		"hint": "Open area where goods are sold",
+		"alt_word": []
+	},
+	{
+		"word": "harbor",
+		"category": "Place - Urban",
+		"hint": "Sheltered water where boats dock",
+		"alt_word": ["harbour", "port"]
+	},
+	{
+		"word": "village",
+		"category": "Place - Urban",
+		"hint": "Small settlement in the countryside",
+		"alt_word": ["town"]
+	},
+	{
+		"word": "suburb",
+		"category": "Place - Urban",
+		"hint": "Residential area outside a city",
+		"alt_word": []
+	},
+	{
+		"word": "alley",
+		"category": "Place - Urban",
+		"hint": "Narrow passageway between buildings",
+		"alt_word": ["alleyway"]
+	},
+	{
+		"word": "park",
+		"category": "Place - Urban",
+		"hint": "Public green space in a city",
+		"alt_word": []
+	},
+	{
+		"word": "plaza",
+		"category": "Place - Urban",
+		"hint": "Open public square in a city",
+		"alt_word": ["square"]
+	},
+	{
+		"word": "stadium",
+		"category": "Place - Urban",
+		"hint": "Large sports venue in a city",
+		"alt_word": []
+	},
+	{
+		"word": "skyscraper",
+		"category": "Place - Urban",
+		"hint": "Extremely tall city building",
+		"alt_word": []
+	},
+	{
+		"word": "crossroads",
+		"category": "Place - Urban",
+		"hint": "Where two roads meet and cross",
+		"alt_word": ["intersection"]
+	},
+	{
+		"word": "roundabout",
+		"category": "Place - Urban",
+		"hint": "Circular road junction",
+		"alt_word": ["traffic circle"]
+	},
+	{
+		"word": "birthday",
+		"category": "Scenario",
+		"hint": "Celebrated once a year with cake",
+		"alt_word": []
+	},
+	{
+		"word": "wedding",
+		"category": "Scenario",
+		"hint": "Ceremony where two people marry",
+		"alt_word": []
+	},
+	{
+		"word": "picnic",
+		"category": "Scenario",
+		"hint": "Eating outside on a blanket",
+		"alt_word": []
+	},
+	{
+		"word": "concert",
+		"category": "Scenario",
+		"hint": "Live music performance",
+		"alt_word": ["gig"]
+	},
+	{
+		"word": "parade",
+		"category": "Scenario",
+		"hint": "People marching in celebration",
+		"alt_word": []
+	},
+	{
+		"word": "festival",
+		"category": "Scenario",
+		"hint": "Big outdoor celebration",
+		"alt_word": []
+	},
+	{
+		"word": "funeral",
+		"category": "Scenario",
+		"hint": "Ceremony for someone who passed",
+		"alt_word": []
+	},
+	{
+		"word": "graduation",
+		"category": "Scenario",
+		"hint": "Ceremony for finishing school",
+		"alt_word": []
+	},
+	{
+		"word": "vacation",
+		"category": "Scenario",
+		"hint": "Trip away to relax",
+		"alt_word": ["holiday"]
+	},
+	{
+		"word": "interview",
+		"category": "Scenario",
+		"hint": "Meeting to get a job",
+		"alt_word": []
+	},
+	{
+		"word": "argument",
+		"category": "Scenario",
+		"hint": "Two people disagreeing loudly",
+		"alt_word": ["fight", "dispute"]
+	},
+	{
+		"word": "traffic",
+		"category": "Scenario",
+		"hint": "Too many cars on the road",
+		"alt_word": ["traffic jam"]
+	},
+	{
+		"word": "emergency",
+		"category": "Scenario",
+		"hint": "Sudden dangerous situation",
+		"alt_word": []
+	},
+	{
+		"word": "surprise",
+		"category": "Scenario",
+		"hint": "Something totally unexpected",
+		"alt_word": []
+	},
+	{
+		"word": "timeout",
+		"category": "Scenario",
+		"hint": "A pause to calm down",
+		"alt_word": []
+	},
+	{
+		"word": "checkout",
+		"category": "Scenario",
+		"hint": "Paying before leaving a store",
+		"alt_word": []
+	},
+	{
+		"word": "sleepover",
+		"category": "Scenario",
+		"hint": "Staying the night at a friend's house",
+		"alt_word": []
+	},
+	{
+		"word": "roadtrip",
+		"category": "Scenario",
+		"hint": "Long drive to another place",
+		"alt_word": ["road trip"]
+	},
+	{
+		"word": "barbecue",
+		"category": "Scenario",
+		"hint": "Cooking meat outdoors on a grill",
+		"alt_word": ["bbq"]
+	},
+	{
+		"word": "campfire",
+		"category": "Scenario",
+		"hint": "Open fire at a campsite",
+		"alt_word": []
+	},
+	{
+		"word": "auction",
+		"category": "Scenario",
+		"hint": "Selling items to the highest bidder",
+		"alt_word": []
+	},
+	{
+		"word": "expedition",
+		"category": "Scenario",
+		"hint": "A journey to explore new places",
+		"alt_word": []
+	},
+	{
+		"word": "race",
+		"category": "Scenario",
+		"hint": "Competing to see who is fastest",
+		"alt_word": []
+	},
+	{
+		"word": "tournament",
+		"category": "Scenario",
+		"hint": "A series of games to find a champion",
+		"alt_word": []
+	},
+	{
+		"word": "rehearsal",
+		"category": "Scenario",
+		"hint": "Practice before a big performance",
+		"alt_word": []
+	},
+	{
+		"word": "queue",
+		"category": "Scenario",
+		"hint": "A line of people waiting their turn",
+		"alt_word": ["line", "lineup"]
+	},
+	{
+		"word": "protest",
+		"category": "Scenario",
+		"hint": "People marching to express disagreement",
+		"alt_word": ["demonstration"]
+	},
+	{
+		"word": "evacuation",
+		"category": "Scenario",
+		"hint": "Quickly leaving a dangerous place",
+		"alt_word": []
+	},
+	{
+		"word": "blackout",
+		"category": "Scenario",
+		"hint": "When electricity cuts out",
+		"alt_word": ["power cut", "power outage"]
+	},
+	{
+		"word": "happy",
+		"category": "Emotion",
+		"hint": "Feeling of joy",
+		"alt_word": ["joy", "joyful", "glad"]
+	},
+	{
+		"word": "angry",
+		"category": "Emotion",
+		"hint": "Really mad feeling",
+		"alt_word": ["mad", "furious"]
+	},
+	{
+		"word": "scared",
+		"category": "Emotion",
+		"hint": "Feeling of fear",
+		"alt_word": ["afraid", "frightened", "fearful"]
+	},
+	{
+		"word": "excited",
+		"category": "Emotion",
+		"hint": "Can't wait for something great",
+		"alt_word": []
+	},
+	{
+		"word": "lonely",
+		"category": "Emotion",
+		"hint": "Sad from being alone",
+		"alt_word": []
+	},
+	{
+		"word": "jealous",
+		"category": "Emotion",
+		"hint": "Wanting what someone else has",
+		"alt_word": ["envious"]
+	},
+	{
+		"word": "nervous",
+		"category": "Emotion",
+		"hint": "Worried and anxious",
+		"alt_word": ["anxious", "worried"]
+	},
+	{
+		"word": "proud",
+		"category": "Emotion",
+		"hint": "Pleased about an achievement",
+		"alt_word": []
+	},
+	{
+		"word": "bored",
+		"category": "Emotion",
+		"hint": "Nothing interesting is happening",
+		"alt_word": []
+	},
+	{
+		"word": "confused",
+		"category": "Emotion",
+		"hint": "Cannot understand what is going on",
+		"alt_word": ["puzzled"]
+	},
+	{
+		"word": "grateful",
+		"category": "Emotion",
+		"hint": "Thankful for something",
+		"alt_word": ["thankful"]
+	},
+	{
+		"word": "surprised",
+		"category": "Emotion",
+		"hint": "Something unexpected happened",
+		"alt_word": ["shocked"]
+	},
+	{
+		"word": "tired",
+		"category": "Emotion",
+		"hint": "Need to rest or sleep",
+		"alt_word": ["exhausted", "sleepy"]
+	},
+	{
+		"word": "embarrassed",
+		"category": "Emotion",
+		"hint": "Red-faced from doing something awkward",
+		"alt_word": []
+	},
+	{
+		"word": "hopeful",
+		"category": "Emotion",
+		"hint": "Believing something good will happen",
+		"alt_word": []
+	},
+	{
+		"word": "disgusted",
+		"category": "Emotion",
+		"hint": "Feeling sick about something gross",
+		"alt_word": ["revolted"]
+	},
+	{
+		"word": "calm",
+		"category": "Emotion",
+		"hint": "Peaceful and relaxed",
+		"alt_word": ["relaxed", "peaceful"]
+	},
+	{
+		"word": "frustrated",
+		"category": "Emotion",
+		"hint": "Annoyed because something isn't working",
+		"alt_word": []
+	},
+	{
+		"word": "sad",
+		"category": "Emotion",
+		"hint": "Feeling unhappy or down",
+		"alt_word": ["unhappy", "upset"]
+	},
+	{
+		"word": "love",
+		"category": "Emotion",
+		"hint": "Deep caring feeling for someone",
+		"alt_word": []
+	},
+	{
+		"word": "guilt",
+		"category": "Emotion",
+		"hint": "Feeling bad about something you did wrong",
+		"alt_word": ["guilty"]
+	},
+	{
+		"word": "shy",
+		"category": "Emotion",
+		"hint": "Uncomfortable around new people",
+		"alt_word": []
+	},
+	{
+		"word": "brave",
+		"category": "Emotion",
+		"hint": "Not showing fear despite danger",
+		"alt_word": ["courageous", "bold"]
+	},
+	{
+		"word": "cheerful",
+		"category": "Emotion",
+		"hint": "Noticeably happy and upbeat",
+		"alt_word": ["jolly"]
+	},
+	{
+		"word": "rose",
+		"category": "Plant",
+		"hint": "Classic flower with thorns",
+		"alt_word": []
+	},
+	{
+		"word": "tulip",
+		"category": "Plant",
+		"hint": "Cup-shaped spring flower",
+		"alt_word": []
+	},
+	{
+		"word": "sunflower",
+		"category": "Plant",
+		"hint": "Tall yellow flower that faces the sun",
+		"alt_word": []
+	},
+	{
+		"word": "daisy",
+		"category": "Plant",
+		"hint": "Small white flower with yellow center",
+		"alt_word": []
+	},
+	{
+		"word": "cactus",
+		"category": "Plant",
+		"hint": "Spiky desert plant",
+		"alt_word": []
+	},
+	{
+		"word": "bamboo",
+		"category": "Plant",
+		"hint": "Tall fast-growing grass",
+		"alt_word": []
+	},
+	{
+		"word": "oak",
+		"category": "Plant",
+		"hint": "Big tree that grows acorns",
+		"alt_word": ["oak tree"]
+	},
+	{
+		"word": "maple",
+		"category": "Plant",
+		"hint": "Tree with five-pointed leaves",
+		"alt_word": ["maple tree"]
+	},
+	{
+		"word": "palm",
+		"category": "Plant",
+		"hint": "Tropical tree with leaves at the top",
+		"alt_word": ["palm tree"]
+	},
+	{
+		"word": "moss",
+		"category": "Plant",
+		"hint": "Soft green carpet on rocks",
+		"alt_word": []
+	},
+	{
+		"word": "ivy",
+		"category": "Plant",
+		"hint": "Vine that climbs walls",
+		"alt_word": []
+	},
+	{
+		"word": "orchid",
+		"category": "Plant",
+		"hint": "Exotic colorful flower",
+		"alt_word": []
+	},
+	{
+		"word": "fern",
+		"category": "Plant",
+		"hint": "Leafy plant that loves shade",
+		"alt_word": []
+	},
+	{
+		"word": "lily",
+		"category": "Plant",
+		"hint": "Trumpet-shaped flower",
+		"alt_word": []
+	},
+	{
+		"word": "lavender",
+		"category": "Plant",
+		"hint": "Purple fragrant herb",
+		"alt_word": []
+	},
+	{
+		"word": "thistle",
+		"category": "Plant",
+		"hint": "Spiky purple wildflower",
+		"alt_word": []
+	},
+	{
+		"word": "clover",
+		"category": "Plant",
+		"hint": "Three-leafed plant in grass",
+		"alt_word": []
+	},
+	{
+		"word": "dandelion",
+		"category": "Plant",
+		"hint": "Yellow weed with a puffball seed head",
+		"alt_word": []
+	},
+	{
+		"word": "pine",
+		"category": "Plant",
+		"hint": "Evergreen tree with needles and cones",
+		"alt_word": ["pine tree"]
+	},
+	{
+		"word": "cherry blossom",
+		"category": "Plant",
+		"hint": "Pink Japanese spring flower",
+		"alt_word": ["blossom"]
+	},
+	{
+		"word": "seaweed",
+		"category": "Plant",
+		"hint": "Underwater plant found on beaches",
+		"alt_word": []
+	},
+	{
+		"word": "mushroom",
+		"category": "Plant",
+		"hint": "Fungi with a cap that grows in the forest",
+		"alt_word": []
+	},
+	{
+		"word": "willow",
+		"category": "Plant",
+		"hint": "Tree with drooping branches by water",
+		"alt_word": ["willow tree"]
+	},
+	{
+		"word": "bonsai",
+		"category": "Plant",
+		"hint": "Tiny ornamental tree grown in a pot",
+		"alt_word": []
+	},
+	{
+		"word": "aloe",
+		"category": "Plant",
+		"hint": "Spiky succulent used for sunburn",
+		"alt_word": ["aloe vera"]
+	},
+	{
+		"word": "lotus",
+		"category": "Plant",
+		"hint": "Sacred flower that grows on water",
+		"alt_word": []
+	},
+	{
+		"word": "hockey",
+		"category": "Sport",
+		"hint": "Played on ice with a puck",
+		"alt_word": ["ice hockey"]
+	},
+	{
+		"word": "tennis",
+		"category": "Sport",
+		"hint": "Racket sport across a net",
+		"alt_word": []
+	},
+	{
+		"word": "golf",
+		"category": "Sport",
+		"hint": "Hit a ball into a hole",
+		"alt_word": []
+	},
+	{
+		"word": "soccer",
+		"category": "Sport",
+		"hint": "Kick a ball into a goal",
+		"alt_word": ["football"]
+	},
+	{
+		"word": "basketball",
+		"category": "Sport",
+		"hint": "Throw a ball through a hoop",
+		"alt_word": []
+	},
+	{
+		"word": "baseball",
+		"category": "Sport",
+		"hint": "Bat and ball with four bases",
+		"alt_word": []
+	},
+	{
+		"word": "volleyball",
+		"category": "Sport",
+		"hint": "Hit a ball over a net",
+		"alt_word": []
+	},
+	{
+		"word": "cricket",
+		"category": "Sport",
+		"hint": "Bat and ball game from England",
+		"alt_word": []
+	},
+	{
+		"word": "boxing",
+		"category": "Sport",
+		"hint": "Two people punch each other",
+		"alt_word": []
+	},
+	{
+		"word": "skiing",
+		"category": "Sport",
+		"hint": "Sliding down a snowy slope",
+		"alt_word": ["ski"]
+	},
+	{
+		"word": "surfing",
+		"category": "Sport",
+		"hint": "Riding ocean waves on a board",
+		"alt_word": ["surf"]
+	},
+	{
+		"word": "archery",
+		"category": "Sport",
+		"hint": "Shoot arrows at a target",
+		"alt_word": []
+	},
+	{
+		"word": "cycling",
+		"category": "Sport",
+		"hint": "Racing on a bicycle",
+		"alt_word": ["biking"]
+	},
+	{
+		"word": "swimming",
+		"category": "Sport",
+		"hint": "Racing through water",
+		"alt_word": ["swim"]
+	},
+	{
+		"word": "wrestling",
+		"category": "Sport",
+		"hint": "Two people try to pin each other",
+		"alt_word": []
+	},
+	{
+		"word": "rugby",
+		"category": "Sport",
+		"hint": "Oval ball carried and tackled across a line",
+		"alt_word": []
+	},
+	{
+		"word": "gymnastics",
+		"category": "Sport",
+		"hint": "Flipping and tumbling with grace",
+		"alt_word": []
+	},
+	{
+		"word": "karate",
+		"category": "Sport",
+		"hint": "Martial art using punches and kicks",
+		"alt_word": []
+	},
+	{
+		"word": "judo",
+		"category": "Sport",
+		"hint": "Martial art with throws and grappling",
+		"alt_word": []
+	},
+	{
+		"word": "fencing",
+		"category": "Sport",
+		"hint": "Sword fighting sport in a mask",
+		"alt_word": []
+	},
+	{
+		"word": "rowing",
+		"category": "Sport",
+		"hint": "Racing in a boat with oars",
+		"alt_word": []
+	},
+	{
+		"word": "snowboarding",
+		"category": "Sport",
+		"hint": "Sliding down snow on a single board",
+		"alt_word": []
+	},
+	{
+		"word": "skateboarding",
+		"category": "Sport",
+		"hint": "Doing tricks on a wheeled board",
+		"alt_word": []
+	},
+	{
+		"word": "darts",
+		"category": "Sport",
+		"hint": "Throwing small pointed missiles at a board",
+		"alt_word": []
+	},
+	{
+		"word": "badminton",
+		"category": "Sport",
+		"hint": "Racket sport using a feathered shuttlecock",
+		"alt_word": []
+	},
+	{
+		"word": "table tennis",
+		"category": "Sport",
+		"hint": "Mini tennis on a table",
+		"alt_word": ["ping pong"]
+	},
+	{
+		"word": "triathlon",
+		"category": "Sport",
+		"hint": "Race with swimming, cycling and running",
+		"alt_word": []
+	},
+	{
+		"word": "marathon",
+		"category": "Sport",
+		"hint": "Very long 26-mile running race",
+		"alt_word": []
+	},
+	{
+		"word": "polo",
+		"category": "Sport",
+		"hint": "Hitting a ball while riding a horse",
+		"alt_word": []
+	},
+	{
+		"word": "sun",
+		"category": "Nature - Weather",
+		"hint": "Bright star that lights the day",
+		"alt_word": []
+	},
+	{
+		"word": "moon",
+		"category": "Nature - Weather",
+		"hint": "Glows at night and causes tides",
+		"alt_word": []
+	},
+	{
+		"word": "star",
+		"category": "Nature - Weather",
+		"hint": "Tiny light in the night sky",
+		"alt_word": ["stars"]
+	},
+	{
+		"word": "cloud",
+		"category": "Nature - Weather",
+		"hint": "Fluffy white shape in the sky",
+		"alt_word": ["clouds"]
+	},
+	{
+		"word": "rain",
+		"category": "Nature - Weather",
+		"hint": "Water falling from the sky",
+		"alt_word": ["raining"]
+	},
+	{
+		"word": "snow",
+		"category": "Nature - Weather",
+		"hint": "White flakes that fall in winter",
+		"alt_word": ["snowing"]
+	},
+	{
+		"word": "hail",
+		"category": "Nature - Weather",
+		"hint": "Ice balls that fall from the sky",
+		"alt_word": ["hailing"]
+	},
+	{
+		"word": "fog",
+		"category": "Nature - Weather",
+		"hint": "Thick mist that blocks your view",
+		"alt_word": ["mist"]
+	},
+	{
+		"word": "wind",
+		"category": "Nature - Weather",
+		"hint": "Moving air you can hear and feel",
+		"alt_word": ["windy"]
+	},
+	{
+		"word": "storm",
+		"category": "Nature - Weather",
+		"hint": "Bad weather with rain and thunder",
+		"alt_word": []
+	},
+	{
+		"word": "thunder",
+		"category": "Nature - Weather",
+		"hint": "Loud rumble in the sky after lightning",
+		"alt_word": []
+	},
+	{
+		"word": "lightning",
+		"category": "Nature - Weather",
+		"hint": "Bright bolt of electricity from the sky",
+		"alt_word": []
+	},
+	{
+		"word": "rainbow",
+		"category": "Nature - Weather",
+		"hint": "Arc of colors after rain",
+		"alt_word": []
+	},
+	{
+		"word": "tornado",
+		"category": "Nature - Weather",
+		"hint": "Spinning funnel of wind",
+		"alt_word": ["twister"]
+	},
+	{
+		"word": "hurricane",
+		"category": "Nature - Weather",
+		"hint": "Massive ocean storm with circular winds",
+		"alt_word": ["cyclone", "typhoon"]
+	},
+	{
+		"word": "drought",
+		"category": "Nature - Weather",
+		"hint": "Long period with no rain",
+		"alt_word": []
+	},
+	{
+		"word": "blizzard",
+		"category": "Nature - Weather",
+		"hint": "Severe snowstorm with strong winds",
+		"alt_word": ["snowstorm"]
+	},
+	{
+		"word": "frost",
+		"category": "Nature - Weather",
+		"hint": "Thin ice layer that forms on cold mornings",
+		"alt_word": []
+	},
+	{
+		"word": "flood",
+		"category": "Nature - Weather",
+		"hint": "Water that overflows onto land",
+		"alt_word": ["flooding"]
+	},
+	{
+		"word": "aurora",
+		"category": "Nature - Weather",
+		"hint": "Colorful lights that dance in the Arctic sky",
+		"alt_word": ["northern lights"]
+	},
+	{
+		"word": "sword",
+		"category": "Object - Historical",
+		"hint": "Long metal blade used in battle",
+		"alt_word": []
+	},
+	{
+		"word": "shield",
+		"category": "Object - Historical",
+		"hint": "Protective plate carried in battle",
+		"alt_word": []
+	},
+	{
+		"word": "bow",
+		"category": "Object - Historical",
+		"hint": "Curved weapon that fires arrows",
+		"alt_word": []
+	},
+	{
+		"word": "arrow",
+		"category": "Object - Historical",
+		"hint": "Shot from a bow at a target",
+		"alt_word": ["arrows"]
+	},
+	{
+		"word": "helmet",
+		"category": "Object - Historical",
+		"hint": "Protective head gear worn in battle",
+		"alt_word": []
+	},
+	{
+		"word": "crown",
+		"category": "Object - Historical",
+		"hint": "Worn on a king or queen's head",
+		"alt_word": []
+	},
+	{
+		"word": "throne",
+		"category": "Object - Historical",
+		"hint": "Royal chair for a king or queen",
+		"alt_word": []
+	},
+	{
+		"word": "scroll",
+		"category": "Object - Historical",
+		"hint": "Ancient rolled-up document",
+		"alt_word": []
+	},
+	{
+		"word": "torch",
+		"category": "Object - Historical",
+		"hint": "Stick with a burning flame at the end",
+		"alt_word": []
+	},
+	{
+		"word": "cannon",
+		"category": "Object - Historical",
+		"hint": "Old heavy gun on wheels",
+		"alt_word": []
+	},
+	{
+		"word": "catapult",
+		"category": "Object - Historical",
+		"hint": "Ancient weapon that launches boulders",
+		"alt_word": []
+	},
+	{
+		"word": "spear",
+		"category": "Object - Historical",
+		"hint": "Long pointed weapon thrown or thrust",
+		"alt_word": []
+	},
+	{
+		"word": "axe",
+		"category": "Object - Historical",
+		"hint": "Chopping tool or weapon with a blade",
+		"alt_word": ["ax"]
+	},
+	{
+		"word": "armor",
+		"category": "Object - Historical",
+		"hint": "Metal suit worn by knights",
+		"alt_word": ["armour"]
+	},
+	{
+		"word": "car",
+		"category": "Transport",
+		"hint": "Four-wheeled road vehicle",
+		"alt_word": ["automobile", "vehicle"]
+	},
+	{
+		"word": "bus",
+		"category": "Transport",
+		"hint": "Large vehicle carrying many passengers",
+		"alt_word": ["coach"]
+	},
+	{
+		"word": "train",
+		"category": "Transport",
+		"hint": "Runs along metal tracks",
+		"alt_word": []
+	},
+	{
+		"word": "airplane",
+		"category": "Transport",
+		"hint": "Flies passengers through the sky",
+		"alt_word": ["plane", "aircraft"]
+	},
+	{
+		"word": "helicopter",
+		"category": "Transport",
+		"hint": "Flying vehicle with spinning blades",
+		"alt_word": []
+	},
+	{
+		"word": "boat",
+		"category": "Transport",
+		"hint": "Small watercraft",
+		"alt_word": ["ship"]
+	},
+	{
+		"word": "submarine",
+		"category": "Transport",
+		"hint": "Underwater vessel",
+		"alt_word": ["sub"]
+	},
+	{
+		"word": "bicycle",
+		"category": "Transport",
+		"hint": "Two-wheeled pedal-powered vehicle",
+		"alt_word": ["bike", "cycle"]
+	},
+	{
+		"word": "motorcycle",
+		"category": "Transport",
+		"hint": "Two-wheeled motorized vehicle",
+		"alt_word": ["motorbike"]
+	},
+	{
+		"word": "truck",
+		"category": "Transport",
+		"hint": "Large vehicle for carrying goods",
+		"alt_word": ["lorry"]
+	},
+	{
+		"word": "tram",
+		"category": "Transport",
+		"hint": "Electric vehicle running on city tracks",
+		"alt_word": ["streetcar"]
+	},
+	{
+		"word": "taxi",
+		"category": "Transport",
+		"hint": "Hired car with a driver",
+		"alt_word": ["cab"]
+	},
+	{
+		"word": "ambulance",
+		"category": "Transport",
+		"hint": "Emergency vehicle for sick or injured",
+		"alt_word": []
+	},
+	{
+		"word": "firetruck",
+		"category": "Transport",
+		"hint": "Carries firefighters and hoses",
+		"alt_word": ["fire engine", "fire truck"]
+	},
+	{
+		"word": "rocket",
+		"category": "Transport",
+		"hint": "Launched into space",
+		"alt_word": ["spacecraft"]
+	},
+	{
+		"word": "canoe",
+		"category": "Transport",
+		"hint": "Narrow boat paddled with a single oar",
+		"alt_word": ["kayak"]
+	},
+	{
+		"word": "sailboat",
+		"category": "Transport",
+		"hint": "Boat powered by the wind",
+		"alt_word": ["sailing boat", "yacht"]
+	},
+	{
+		"word": "scooter",
+		"category": "Transport",
+		"hint": "Small two-wheeled vehicle or kickboard",
+		"alt_word": []
+	},
+	{
+		"word": "tractor",
+		"category": "Transport",
+		"hint": "Powerful farm vehicle",
+		"alt_word": []
+	},
+	{
+		"word": "cable car",
+		"category": "Transport",
+		"hint": "Hangs from a wire and carries people up mountains",
+		"alt_word": ["gondola"]
+	},
+	{
+		"word": "hat",
+		"category": "Clothing",
+		"hint": "Worn on your head",
+		"alt_word": ["cap"]
+	},
+	{
+		"word": "scarf",
+		"category": "Clothing",
+		"hint": "Wrapped around your neck in winter",
+		"alt_word": []
+	},
+	{
+		"word": "gloves",
+		"category": "Clothing",
+		"hint": "Cover your hands",
+		"alt_word": ["mittens"]
+	},
+	{
+		"word": "boots",
+		"category": "Clothing",
+		"hint": "Sturdy footwear up the ankle or higher",
+		"alt_word": ["boot"]
+	},
+	{
+		"word": "sneakers",
+		"category": "Clothing",
+		"hint": "Casual rubber-soled shoes",
+		"alt_word": ["trainers", "shoes"]
+	},
+	{
+		"word": "jacket",
+		"category": "Clothing",
+		"hint": "Outer layer worn over a shirt",
+		"alt_word": ["coat"]
+	},
+	{
+		"word": "jeans",
+		"category": "Clothing",
+		"hint": "Denim trousers",
+		"alt_word": ["denim"]
+	},
+	{
+		"word": "dress",
+		"category": "Clothing",
+		"hint": "One-piece garment worn by women",
+		"alt_word": []
+	},
+	{
+		"word": "skirt",
+		"category": "Clothing",
+		"hint": "Garment that hangs from the waist down",
+		"alt_word": []
+	},
+	{
+		"word": "suit",
+		"category": "Clothing",
+		"hint": "Formal jacket and trousers",
+		"alt_word": []
+	},
+	{
+		"word": "tie",
+		"category": "Clothing",
+		"hint": "Long cloth worn around the neck formally",
+		"alt_word": ["necktie"]
+	},
+	{
+		"word": "socks",
+		"category": "Clothing",
+		"hint": "Worn on your feet inside shoes",
+		"alt_word": ["sock"]
+	},
+	{
+		"word": "underwear",
+		"category": "Clothing",
+		"hint": "Worn under your clothes",
+		"alt_word": []
+	},
+	{
+		"word": "pajamas",
+		"category": "Clothing",
+		"hint": "Worn to sleep",
+		"alt_word": ["pyjamas", "pjs"]
+	},
+	{
+		"word": "swimsuit",
+		"category": "Clothing",
+		"hint": "Worn in the pool or at the beach",
+		"alt_word": ["bikini", "trunks"]
+	},
+	{
+		"word": "hoodie",
+		"category": "Clothing",
+		"hint": "Casual sweatshirt with a hood",
+		"alt_word": []
+	},
+	{
+		"word": "vest",
+		"category": "Clothing",
+		"hint": "Sleeveless upper garment",
+		"alt_word": ["waistcoat"]
+	},
+	{
+		"word": "belt",
+		"category": "Clothing",
+		"hint": "Worn around your waist to hold trousers up",
+		"alt_word": []
+	},
+	{
+		"word": "sandals",
+		"category": "Clothing",
+		"hint": "Open-toed footwear for warm weather",
+		"alt_word": ["sandal"]
+	},
+	{
+		"word": "apron",
+		"category": "Clothing",
+		"hint": "Worn over clothes while cooking",
+		"alt_word": []
+	},
+	{
+		"word": "chess",
+		"category": "Game",
+		"hint": "Strategy board game with kings and pawns",
+		"alt_word": []
+	},
+	{
+		"word": "checkers",
+		"category": "Game",
+		"hint": "Board game where you jump over pieces",
+		"alt_word": ["draughts"]
+	},
+	{
+		"word": "monopoly",
+		"category": "Game",
+		"hint": "Board game where you buy properties",
+		"alt_word": []
+	},
+	{
+		"word": "scrabble",
+		"category": "Game",
+		"hint": "Tile game where you make words",
+		"alt_word": []
+	},
+	{
+		"word": "poker",
+		"category": "Game",
+		"hint": "Card game where you bet on your hand",
+		"alt_word": ["cards"]
+	},
+	{
+		"word": "jenga",
+		"category": "Game",
+		"hint": "Stack of wooden blocks you pull out",
+		"alt_word": []
+	},
+	{
+		"word": "charades",
+		"category": "Game",
+		"hint": "Acting out words for others to guess",
+		"alt_word": []
+	},
+	{
+		"word": "darts",
+		"category": "Game",
+		"hint": "Throw pointed missiles at a circular board",
+		"alt_word": []
+	},
+	{
+		"word": "bowling",
+		"category": "Game",
+		"hint": "Roll a ball to knock down pins",
+		"alt_word": []
+	},
+	{
+		"word": "billiards",
+		"category": "Game",
+		"hint": "Hit balls on a green table with a cue",
+		"alt_word": ["pool", "snooker"]
+	},
+	{
+		"word": "puzzle",
+		"category": "Game",
+		"hint": "Fitting pieces together to make a picture",
+		"alt_word": ["jigsaw"]
+	},
+	{
+		"word": "dominoes",
+		"category": "Game",
+		"hint": "Tile game where you match spots",
+		"alt_word": []
+	},
+	{
+		"word": "bingo",
+		"category": "Game",
+		"hint": "Call numbers and mark a card",
+		"alt_word": []
+	},
+	{
+		"word": "hide and seek",
+		"category": "Game",
+		"hint": "One person counts while others hide",
+		"alt_word": []
+	},
+	{
+		"word": "tag",
+		"category": "Game",
+		"hint": "Chase game where one person is it",
+		"alt_word": ["tiggy"]
+	},
+	{
+		"word": "hopscotch",
+		"category": "Game",
+		"hint": "Hop through numbered squares on the ground",
+		"alt_word": []
+	},
+	{
+		"word": "tug of war",
+		"category": "Game",
+		"hint": "Two teams pull a rope",
+		"alt_word": []
+	},
+	{
+		"word": "bread",
+		"category": "Food - Baked",
+		"hint": "Sliced and used for toast or sandwiches",
+		"alt_word": []
+	},
+	{
+		"word": "croissant",
+		"category": "Food - Baked",
+		"hint": "Flaky crescent-shaped French pastry",
+		"alt_word": []
+	},
+	{
+		"word": "bagel",
+		"category": "Food - Baked",
+		"hint": "Round bread with a hole in the middle",
+		"alt_word": []
+	},
+	{
+		"word": "pretzel",
+		"category": "Food - Baked",
+		"hint": "Twisted salty baked snack",
+		"alt_word": []
+	},
+	{
+		"word": "scone",
+		"category": "Food - Baked",
+		"hint": "Small round baked treat eaten with jam and cream",
+		"alt_word": []
+	},
+	{
+		"word": "baguette",
+		"category": "Food - Baked",
+		"hint": "Long thin French bread",
+		"alt_word": []
+	},
+	{
+		"word": "toast",
+		"category": "Food - Baked",
+		"hint": "Bread heated until golden and crispy",
+		"alt_word": []
+	},
+	{
+		"word": "roll",
+		"category": "Food - Baked",
+		"hint": "Small round bread",
+		"alt_word": ["bread roll", "bun"]
+	},
+	{
+		"word": "coffee",
+		"category": "Food - Drinks",
+		"hint": "Hot dark caffeinated drink",
+		"alt_word": []
+	},
+	{
+		"word": "tea",
+		"category": "Food - Drinks",
+		"hint": "Hot drink made from leaves",
+		"alt_word": []
+	},
+	{
+		"word": "juice",
+		"category": "Food - Drinks",
+		"hint": "Liquid squeezed from fruit",
+		"alt_word": []
+	},
+	{
+		"word": "smoothie",
+		"category": "Food - Drinks",
+		"hint": "Blended drink made from fruit",
+		"alt_word": []
+	},
+	{
+		"word": "milkshake",
+		"category": "Food - Drinks",
+		"hint": "Cold blended sweet milk drink",
+		"alt_word": ["shake"]
+	},
+	{
+		"word": "lemonade",
+		"category": "Food - Drinks",
+		"hint": "Cold sweet drink made from lemons",
+		"alt_word": []
+	},
+	{
+		"word": "hot chocolate",
+		"category": "Food - Drinks",
+		"hint": "Warm sweet cocoa drink",
+		"alt_word": ["cocoa", "hot cocoa"]
+	},
+	{
+		"word": "water",
+		"category": "Food - Drinks",
+		"hint": "Clear liquid essential for life",
+		"alt_word": []
+	},
+	{
+		"word": "planet",
+		"category": "Space",
+		"hint": "Large round object orbiting a star",
+		"alt_word": []
+	},
+	{
+		"word": "galaxy",
+		"category": "Space",
+		"hint": "Enormous collection of billions of stars",
+		"alt_word": []
+	},
+	{
+		"word": "comet",
+		"category": "Space",
+		"hint": "Icy object with a glowing tail in space",
+		"alt_word": []
+	},
+	{
+		"word": "asteroid",
+		"category": "Space",
+		"hint": "Rocky object floating in space",
+		"alt_word": []
+	},
+	{
+		"word": "satellite",
+		"category": "Space",
+		"hint": "Object that orbits a planet",
+		"alt_word": []
+	},
+	{
+		"word": "telescope",
+		"category": "Space",
+		"hint": "Used to look at stars and planets",
+		"alt_word": []
+	},
+	{
+		"word": "black hole",
+		"category": "Space",
+		"hint": "Pulls in everything including light",
+		"alt_word": []
+	},
+	{
+		"word": "nebula",
+		"category": "Space",
+		"hint": "Colorful cloud of gas and dust in space",
+		"alt_word": []
+	},
+	{
+		"word": "orbit",
+		"category": "Space",
+		"hint": "The path one object takes around another",
+		"alt_word": []
+	},
+	{
+		"word": "gravity",
+		"category": "Space",
+		"hint": "Force that pulls objects toward each other",
+		"alt_word": []
+	}
+]

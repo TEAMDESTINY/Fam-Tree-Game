@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# Pyrogram session files
+*.session
+*.session-journal
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Test cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Local development
+*.log
+
+# uv
+.python-version

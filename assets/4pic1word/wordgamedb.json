@@ -1,0 +1,1000 @@
+{
+  "words": [
+    {
+      "_id": "5fee49e11935ff7c8aa1660b",
+      "word": "cobra",
+      "category": "animal",
+      "numLetters": 5,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Hooded snake"
+    },
+    {
+      "_id": "5ffa1780c0831cbe1460e29d",
+      "word": "tiger",
+      "category": "animal",
+      "numLetters": 5,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Striped hunter"
+    },
+    {
+      "_id": "5fee4a241935ff7c8aa1660d",
+      "word": "pizza",
+      "category": "food",
+      "numLetters": 5,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Italian pie"
+    },
+    {
+      "_id": "5fee49681935ff7c8aa16607",
+      "word": "gecko",
+      "category": "animal",
+      "numLetters": 5,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Sticky lizard"
+    },
+    {
+      "_id": "5fee49a21935ff7c8aa16609",
+      "word": "dolphin",
+      "category": "animal",
+      "numLetters": 7,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Laughing sea mammal"
+    },
+    {
+      "_id": "5ffa149dc0831cbe1460e287",
+      "word": "hockey",
+      "category": "sport",
+      "numLetters": 6,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Canada's national pastime"
+    },
+    {
+      "_id": "5ffa14e3c0831cbe1460e289",
+      "word": "badminton",
+      "category": "sport",
+      "numLetters": 9,
+      "numSyllables": 3,
+      "__v": 0,
+      "hint": "Racket sport"
+    },
+    {
+      "_id": "5ffa1ac1c0831cbe1460e2bc",
+      "word": "botswana",
+      "category": "country",
+      "numLetters": 8,
+      "numSyllables": 3,
+      "__v": 0,
+      "hint": "Southern Africa"
+    },
+    {
+      "_id": "61e4cdb7ffe8b104fb77ef41",
+      "word": "mule",
+      "category": "animal",
+      "numLetters": 4,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Donkey plus horse"
+    },
+    {
+      "_id": "61e4ce860891be058c6d2a0d",
+      "word": "hare",
+      "category": "animal",
+      "numLetters": 4,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Rabbit"
+    },
+    {
+      "_id": "61e4d26e872ada081fccf417",
+      "word": "mongolia",
+      "category": "country",
+      "numLetters": 8,
+      "numSyllables": 4,
+      "__v": 0,
+      "hint": "Near China"
+    },
+    {
+      "_id": "61e4e06bbc67f00fbabf32bd",
+      "word": "bacon",
+      "category": "food",
+      "numLetters": 5,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Pork product"
+    },
+    {
+      "_id": "5fee4aba1935ff7c8aa16612",
+      "word": "lasagna",
+      "category": "food",
+      "numLetters": 7,
+      "numSyllables": 3,
+      "__v": 0,
+      "hint": "Layers of pasta"
+    },
+    {
+      "_id": "5ffa140dc0831cbe1460e281",
+      "word": "cricket",
+      "category": "sport",
+      "numLetters": 7,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Bat and ball game"
+    },
+    {
+      "_id": "5ffa14f7c0831cbe1460e28a",
+      "word": "tennis",
+      "category": "sport",
+      "numLetters": 6,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Racket sport"
+    },
+    {
+      "_id": "5ffa16abc0831cbe1460e293",
+      "word": "fern",
+      "category": "plant",
+      "numLetters": 4,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Vascular"
+    },
+    {
+      "_id": "5ffa16c4c0831cbe1460e294",
+      "word": "hoya",
+      "category": "plant",
+      "numLetters": 4,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Tropical"
+    },
+    {
+      "_id": "5ffa195bc0831cbe1460e2b0",
+      "word": "cheese",
+      "category": "food",
+      "numLetters": 6,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Dairy"
+    },
+    {
+      "_id": "5ffa1af6c0831cbe1460e2be",
+      "word": "chad",
+      "category": "country",
+      "numLetters": 4,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Landlocked in Africa"
+    },
+    {
+      "_id": "61e4dc38a156ef0c62e6ff06",
+      "word": "cake",
+      "category": "food",
+      "numLetters": 4,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Baked dessert"
+    },
+    {
+      "_id": "5fee4a871935ff7c8aa16610",
+      "word": "waffles",
+      "category": "food",
+      "numLetters": 7,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Breakfast"
+    },
+    {
+      "_id": "5fee4b041935ff7c8aa16614",
+      "word": "canada",
+      "category": "country",
+      "numLetters": 6,
+      "numSyllables": 3,
+      "__v": 0,
+      "hint": "Maple leaf"
+    },
+    {
+      "_id": "5ffa174ac0831cbe1460e29a",
+      "word": "chicken",
+      "category": "animal",
+      "numLetters": 7,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Flightless bird"
+    },
+    {
+      "_id": "5ffa1763c0831cbe1460e29b",
+      "word": "goat",
+      "category": "animal",
+      "numLetters": 4,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Hoofed climber"
+    },
+    {
+      "_id": "5ffa18f4c0831cbe1460e2ab",
+      "word": "cucumber",
+      "category": "food",
+      "numLetters": 8,
+      "numSyllables": 3,
+      "__v": 0,
+      "hint": "Long and green"
+    },
+    {
+      "_id": "5ffa1932c0831cbe1460e2ae",
+      "word": "spinach",
+      "category": "food",
+      "numLetters": 7,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Leafy green"
+    },
+    {
+      "_id": "5ffa1a96c0831cbe1460e2ba",
+      "word": "algeria",
+      "category": "country",
+      "numLetters": 7,
+      "numSyllables": 4,
+      "__v": 0,
+      "hint": "North Africa"
+    },
+    {
+      "_id": "61e4d1966e4ae307bd479a80",
+      "word": "spain",
+      "category": "country",
+      "numLetters": 5,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Mediterranean"
+    },
+    {
+      "_id": "5fee4a681935ff7c8aa1660f",
+      "word": "pho",
+      "category": "food",
+      "numLetters": 3,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Vietnamese"
+    },
+    {
+      "_id": "5fee4b331935ff7c8aa16616",
+      "word": "brazil",
+      "category": "country",
+      "numLetters": 6,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "South America"
+    },
+    {
+      "_id": "5ffa1469c0831cbe1460e285",
+      "word": "baseball",
+      "category": "sport",
+      "numLetters": 8,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Bat and ball game"
+    },
+    {
+      "_id": "5ffa1774c0831cbe1460e29c",
+      "word": "lion",
+      "category": "animal",
+      "numLetters": 4,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "King of the jungle"
+    },
+    {
+      "_id": "5ffa18e8c0831cbe1460e2aa",
+      "word": "egg",
+      "category": "food",
+      "numLetters": 3,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "The source of new life"
+    },
+    {
+      "_id": "5ffa19f5c0831cbe1460e2b5",
+      "word": "peru",
+      "category": "country",
+      "numLetters": 4,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "South America"
+    },
+    {
+      "_id": "61e4d0e1d373da0724e3d47d",
+      "word": "mouse",
+      "category": "animal",
+      "numLetters": 5,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Small rodent"
+    },
+    {
+      "_id": "5fee48761935ff7c8aa16603",
+      "word": "lily",
+      "category": "plant",
+      "numLetters": 4,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Flower"
+    },
+    {
+      "_id": "5fee4aa11935ff7c8aa16611",
+      "word": "burger",
+      "category": "food",
+      "numLetters": 6,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Patty sandwich"
+    },
+    {
+      "_id": "5ffa13f2c0831cbe1460e280",
+      "word": "basketball",
+      "category": "sport",
+      "numLetters": 10,
+      "numSyllables": 3,
+      "__v": 0,
+      "hint": "Ball and hoop game"
+    },
+    {
+      "_id": "5fee4a3e1935ff7c8aa1660e",
+      "word": "hummus",
+      "category": "food",
+      "numLetters": 6,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Chickpea dip"
+    },
+    {
+      "_id": "5fee4aed1935ff7c8aa16613",
+      "word": "japan",
+      "category": "country",
+      "numLetters": 5,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "East Asia"
+    },
+    {
+      "_id": "5ffa157ec0831cbe1460e28d",
+      "word": "bamboo",
+      "category": "plant",
+      "numLetters": 6,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Tall thin forest"
+    },
+    {
+      "_id": "5ffa18a0c0831cbe1460e2a6",
+      "word": "soup",
+      "category": "food",
+      "numLetters": 4,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Liquid meal"
+    },
+    {
+      "_id": "5ffa1980c0831cbe1460e2b1",
+      "word": "spaghetti",
+      "category": "food",
+      "numLetters": 9,
+      "numSyllables": 3,
+      "__v": 0,
+      "hint": "Long Italian noodles"
+    },
+    {
+      "_id": "5ffa19e4c0831cbe1460e2b4",
+      "word": "panama",
+      "category": "country",
+      "numLetters": 6,
+      "numSyllables": 3,
+      "__v": 0,
+      "hint": "Canal between continents"
+    },
+    {
+      "_id": "5ffa1a05c0831cbe1460e2b6",
+      "word": "argentina",
+      "category": "country",
+      "numLetters": 9,
+      "numSyllables": 4,
+      "__v": 0,
+      "hint": "South America"
+    },
+    {
+      "_id": "5ffa1b54c0831cbe1460e2c1",
+      "word": "lebanon",
+      "category": "country",
+      "numLetters": 7,
+      "numSyllables": 3,
+      "__v": 0,
+      "hint": "Mediterranean"
+    },
+    {
+      "_id": "5fee49ba1935ff7c8aa1660a",
+      "word": "squirrel",
+      "category": "animal",
+      "numLetters": 8,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Rodent with bushy tail"
+    },
+    {
+      "_id": "5fee46fe89ccca6a122a3bf4",
+      "word": "cactus",
+      "category": "plant",
+      "numLetters": 5,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Prickly"
+    },
+    {
+      "_id": "5fee493b1935ff7c8aa16606",
+      "word": "ivy",
+      "category": "plant",
+      "numLetters": 3,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Climbing"
+    },
+    {
+      "_id": "5ffa17bac0831cbe1460e29f",
+      "word": "rabbit",
+      "category": "animal",
+      "numLetters": 6,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Hopping rodent"
+    },
+    {
+      "_id": "5ffa17e0c0831cbe1460e2a1",
+      "word": "ferret",
+      "category": "animal",
+      "numLetters": 6,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Domesticated rodent"
+    },
+    {
+      "_id": "5ffa19b8c0831cbe1460e2b2",
+      "word": "mexico",
+      "category": "country",
+      "numLetters": 6,
+      "numSyllables": 3,
+      "__v": 0,
+      "hint": "North America"
+    },
+    {
+      "_id": "61e4cf9fe1ce040656f30476",
+      "word": "goose",
+      "category": "animal",
+      "numLetters": 5,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Bird with a long neck"
+    },
+    {
+      "_id": "5fee4b741935ff7c8aa16618",
+      "word": "denmark",
+      "category": "country",
+      "numLetters": 7,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Nordic"
+    },
+    {
+      "_id": "5ffa14adc0831cbe1460e288",
+      "word": "lacrosse",
+      "category": "sport",
+      "numLetters": 8,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Native American sport"
+    },
+    {
+      "_id": "5ffa173cc0831cbe1460e299",
+      "word": "horse",
+      "category": "animal",
+      "numLetters": 5,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Carries human riders"
+    },
+    {
+      "_id": "5ffa17c9c0831cbe1460e2a0",
+      "word": "hamster",
+      "category": "animal",
+      "numLetters": 7,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Pet rodent"
+    },
+    {
+      "_id": "5ffa17fdc0831cbe1460e2a3",
+      "word": "tortoise",
+      "category": "animal",
+      "numLetters": 8,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Land turtle"
+    },
+    {
+      "_id": "61e4dab6158ea30b61866fa8",
+      "word": "stew",
+      "category": "food",
+      "numLetters": 4,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Chunky soup"
+    },
+    {
+      "_id": "620f16608b1cebd03f9bf928",
+      "word": "possum",
+      "category": "animal",
+      "numLetters": 6,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Plays dead"
+    },
+    {
+      "_id": "5ffa152fc0831cbe1460e28c",
+      "word": "golf",
+      "category": "sport",
+      "numLetters": 4,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Invented in Scotland"
+    },
+    {
+      "_id": "5ffa1722c0831cbe1460e297",
+      "word": "cow",
+      "category": "animal",
+      "numLetters": 3,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Provides milk"
+    },
+    {
+      "_id": "5ffa18c0c0831cbe1460e2a8",
+      "word": "bread",
+      "category": "food",
+      "numLetters": 5,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Outer layer of a sandwich"
+    },
+    {
+      "_id": "5ffa190ec0831cbe1460e2ac",
+      "word": "eggplant",
+      "category": "food",
+      "numLetters": 8,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Smooth and purple"
+    },
+    {
+      "_id": "61e4e22cd73acf1151419f2c",
+      "word": "pie",
+      "category": "food",
+      "numLetters": 3,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Round baked dish"
+    },
+    {
+      "_id": "5ffa185cc0831cbe1460e2a5",
+      "word": "crocodile",
+      "category": "animal",
+      "numLetters": 9,
+      "numSyllables": 3,
+      "__v": 0,
+      "hint": "Long and scaly predator with four legs"
+    },
+    {
+      "_id": "5ffa18cfc0831cbe1460e2a9",
+      "word": "rice",
+      "category": "food",
+      "numLetters": 4,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Small grains"
+    },
+    {
+      "_id": "61e4dcb3effcb80cbae38742",
+      "word": "curry",
+      "category": "food",
+      "numLetters": 5,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Spicy South Asian sauce"
+    },
+    {
+      "_id": "61e4e5425f32941426557825",
+      "word": "melon",
+      "category": "food",
+      "numLetters": 5,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Round sweet fruit"
+    },
+    {
+      "_id": "5fee4a091935ff7c8aa1660c",
+      "word": "parrot",
+      "category": "animal",
+      "numLetters": 6,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Talking bird"
+    },
+    {
+      "_id": "5ffa1addc0831cbe1460e2bd",
+      "word": "cameroon",
+      "category": "country",
+      "numLetters": 8,
+      "numSyllables": 3,
+      "__v": 0,
+      "hint": "Central Africa"
+    },
+    {
+      "_id": "5fee4b1d1935ff7c8aa16615",
+      "word": "vietnam",
+      "category": "country",
+      "numLetters": 7,
+      "numSyllables": 3,
+      "__v": 0,
+      "hint": "Southeast Asia"
+    },
+    {
+      "_id": "5ffa19d3c0831cbe1460e2b3",
+      "word": "guatemala",
+      "category": "country",
+      "numLetters": 9,
+      "numSyllables": 4,
+      "__v": 0,
+      "hint": "Central America"
+    },
+    {
+      "_id": "5ffa13cbc0831cbe1460e27f",
+      "word": "soccer",
+      "category": "sport",
+      "numLetters": 6,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Involves kicking a ball"
+    },
+    {
+      "_id": "5ffa1707c0831cbe1460e295",
+      "word": "dog",
+      "category": "animal",
+      "numLetters": 3,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Popular pet"
+    },
+    {
+      "_id": "5ffa1789c0831cbe1460e29e",
+      "word": "bear",
+      "category": "animal",
+      "numLetters": 4,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Large brown predator"
+    },
+    {
+      "_id": "5ffa183dc0831cbe1460e2a4",
+      "word": "alligator",
+      "category": "animal",
+      "numLetters": 9,
+      "numSyllables": 4,
+      "__v": 0,
+      "hint": "Long scaly predator with four legs"
+    },
+    {
+      "_id": "5ffa1941c0831cbe1460e2af",
+      "word": "onion",
+      "category": "food",
+      "numLetters": 5,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Makes you cry"
+    },
+    {
+      "_id": "5ffa1a6ec0831cbe1460e2b9",
+      "word": "china",
+      "category": "country",
+      "numLetters": 5,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Huge population"
+    },
+    {
+      "_id": "5ffa1aa9c0831cbe1460e2bb",
+      "word": "benin",
+      "category": "country",
+      "numLetters": 5,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "West Africa"
+    },
+    {
+      "_id": "61e4d2077304d207ebccd8fc",
+      "word": "ecuador",
+      "category": "country",
+      "numLetters": 7,
+      "numSyllables": 3,
+      "__v": 0,
+      "hint": "South America"
+    },
+    {
+      "_id": "5fee47b01935ff7c8aa16602",
+      "word": "moss",
+      "category": "plant",
+      "numLetters": 4,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Dense green mats"
+    },
+    {
+      "_id": "5fee4b501935ff7c8aa16617",
+      "word": "russia",
+      "category": "country",
+      "numLetters": 6,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Largest country by area"
+    },
+    {
+      "_id": "5fee49881935ff7c8aa16608",
+      "word": "bobcat",
+      "category": "animal",
+      "numLetters": 6,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Wild feline in North America"
+    },
+    {
+      "_id": "5fee48971935ff7c8aa16604",
+      "word": "yucca",
+      "category": "plant",
+      "numLetters": 5,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Tough sword-shaped leaves"
+    },
+    {
+      "_id": "5ffa159dc0831cbe1460e28e",
+      "word": "palm",
+      "category": "plant",
+      "numLetters": 4,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Tropical tree"
+    },
+    {
+      "_id": "5ffa15ccc0831cbe1460e28f",
+      "word": "pothos",
+      "category": "plant",
+      "numLetters": 6,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Tropical leafy house plant"
+    },
+    {
+      "_id": "5ffa1713c0831cbe1460e296",
+      "word": "cat",
+      "category": "animal",
+      "numLetters": 3,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Domesticated feline"
+    },
+    {
+      "_id": "5ffa1731c0831cbe1460e298",
+      "word": "pig",
+      "category": "animal",
+      "numLetters": 3,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Pork"
+    },
+    {
+      "_id": "5ffa18aec0831cbe1460e2a7",
+      "word": "salad",
+      "category": "food",
+      "numLetters": 5,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Mixed vegetables with dressing"
+    },
+    {
+      "_id": "5ffa1b15c0831cbe1460e2bf",
+      "word": "ghana",
+      "category": "country",
+      "numLetters": 5,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "West Africa"
+    },
+    {
+      "_id": "61e4d08d92bc3f06c9c3f65b",
+      "word": "moose",
+      "category": "animal",
+      "numLetters": 5,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Large and heavy with antlers"
+    },
+    {
+      "_id": "61e4e64d7ddc9714c3ea048f",
+      "word": "naan",
+      "category": "food",
+      "numLetters": 4,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Flat bread"
+    },
+    {
+      "_id": "5ffa17efc0831cbe1460e2a2",
+      "word": "turtle",
+      "category": "animal",
+      "numLetters": 6,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Swims with a shell"
+    },
+    {
+      "_id": "5ffa1923c0831cbe1460e2ad",
+      "word": "lettuce",
+      "category": "food",
+      "numLetters": 7,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Leafy green"
+    },
+    {
+      "_id": "5ffa1a1ac0831cbe1460e2b7",
+      "word": "venezuela",
+      "category": "country",
+      "numLetters": 9,
+      "numSyllables": 4,
+      "__v": 0,
+      "hint": "South America"
+    },
+    {
+      "_id": "5ffa1a2cc0831cbe1460e2b8",
+      "word": "germany",
+      "category": "country",
+      "numLetters": 7,
+      "numSyllables": 3,
+      "__v": 0,
+      "hint": "Central Europe"
+    },
+    {
+      "_id": "5ffa1b35c0831cbe1460e2c0",
+      "word": "india",
+      "category": "country",
+      "numLetters": 5,
+      "numSyllables": 3,
+      "__v": 0,
+      "hint": "South Asia"
+    },
+    {
+      "_id": "61e4e85f1cac29168b1e0643",
+      "word": "kiwi",
+      "category": "food",
+      "numLetters": 4,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Fuzzy fruit"
+    },
+    {
+      "_id": "5fee48c81935ff7c8aa16605",
+      "word": "orchid",
+      "category": "plant",
+      "numLetters": 6,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Vibrant flower"
+    },
+    {
+      "_id": "5ffa142bc0831cbe1460e282",
+      "word": "swimming",
+      "category": "sport",
+      "numLetters": 8,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Water exercise"
+    },
+    {
+      "_id": "5ffa1485c0831cbe1460e286",
+      "word": "football",
+      "category": "sport",
+      "numLetters": 8,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Ball sport"
+    },
+    {
+      "_id": "61e4d3f696344a09221f2c7f",
+      "word": "honey",
+      "category": "food",
+      "numLetters": 5,
+      "numSyllables": 2,
+      "__v": 0,
+      "hint": "Sticky and sweet"
+    },
+    {
+      "_id": "61e4d459516c460946da7e71",
+      "word": "steak",
+      "category": "food",
+      "numLetters": 5,
+      "numSyllables": 1,
+      "__v": 0,
+      "hint": "Piece of beef"
+    },
+    {
+      "_id": "61e4e360cd037612889aaafb",
+      "word": "gelato",
+      "category": "food",
+      "numLetters": 6,
+      "numSyllables": 3,
+      "__v": 0,
+      "hint": "Soft ice cream"
+    },
+    {
+      "_id": "5ffa1510c0831cbe1460e28b",
+      "word": "volleyball",
+      "category": "sport",
+      "numLetters": 10,
+      "numSyllables": 3,
+      "__v": 0,
+      "hint": "Ball and net game"
+    },
+    {
+      "_id": "5ffa15edc0831cbe1460e290",
+      "word": "monstera",
+      "category": "plant",
+      "numLetters": 8,
+      "numSyllables": 3,
+      "__v": 0,
+      "hint": "Scary name"
+    },
+    {
+      "_id": "5ffa1618c0831cbe1460e291",
+      "word": "philodendron",
+      "category": "plant",
+      "numLetters": 12,
+      "numSyllables": 4,
+      "__v": 0,
+      "hint": "Large leafy house plant"
+    },
+    {
+      "_id": "5ffa1643c0831cbe1460e292",
+      "word": "calathea",
+      "category": "plant",
+      "numLetters": 8,
+      "numSyllables": 4,
+      "__v": 0,
+      "hint": "Prayer plant"
+    },
+    {
+      "_id": "64f920ba425c8c2d521769ac",
+      "word": "hyena",
+      "category": "animal",
+      "numLetters": 5,
+      "numSyllables": 3,
+      "hint": "Laughing carnivore",
+      "__v": 0
+    }
+  ],
+  "pagination": {
+    "total": 110,
+    "limit": 1000,
+    "offset": 0,
+    "hasMore": false
+  }
+}
