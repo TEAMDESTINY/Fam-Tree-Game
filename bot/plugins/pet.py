@@ -21,6 +21,9 @@ from bot.constants import (
     PET_LEVELUP_COST,
     PET_MAX_LEVEL,
     PET_MAX_HAPPINESS,
+    _pet_btn_text,
+    _pet_custom_emoji_id,
+    _pet_emoji,
     format_price,
     get_next_pet_cost,
 )
@@ -64,13 +67,19 @@ def _display_name(pet: dict) -> str:
     )
 
 
+def _resolve_sound(pet_type: str, sound: str) -> str:
+    """Resolve {emoji} placeholder in sound strings to the pet's display emoji."""
+    return sound.format(emoji=_pet_emoji(pet_type))
+
+
 def _pet_header(pet: dict) -> str:
-    info = PETS[pet["pet_type"]]
+    pet_type = pet["pet_type"]
+    info = PETS[pet_type]
     happiness = _effective_happiness(pet)
     name = _display_name(pet)
     species_tag = f" the {info['name']}" if pet.get("pet_name") else ""
     return (
-        f"{info['emoji']} <b>{name}</b>{species_tag} — Level {pet['level']}\n"
+        f"{_pet_emoji(pet_type)} <b>{name}</b>{species_tag} — Level {pet['level']}\n"
         f"Happiness: {_happiness_bar(happiness)}\n"
     )
 
@@ -138,7 +147,7 @@ async def _build_pet_view(uid: int) -> tuple[str, InlineKeyboardMarkup | None]:
         info = PETS[p["pet_type"]]
         happiness = _effective_happiness(p)
         name = _display_name(p)
-        text += f"{info['emoji']} <b>{name}</b>"
+        text += f"{_pet_emoji(p['pet_type'])} <b>{name}</b>"
         if p.get("pet_name"):
             text += f" the {info['name']}"
         text += f" — Lv.{p['level']}  ❤️ {happiness}\n"
@@ -149,9 +158,11 @@ async def _build_pet_view(uid: int) -> tuple[str, InlineKeyboardMarkup | None]:
     for p in pets:
         info = PETS[p["pet_type"]]
         name = _display_name(p)
+        pet_type = p["pet_type"]
         btn = InlineKeyboardButton(
-            text=f"{info['emoji']} {name}",
-            callback_data=_cb(uid, "view", p["pet_type"]),
+            text=_pet_btn_text(pet_type, name),
+            callback_data=_cb(uid, "view", pet_type),
+            icon_custom_emoji_id=_pet_custom_emoji_id(pet_type),
         )
         row.append(btn)
         if len(row) == 2:
@@ -210,8 +221,9 @@ def _build_buy_screen(
     available = [(k, v) for k, v in PETS.items() if k not in owned_types]
     for i, (key, info) in enumerate(available):
         btn = InlineKeyboardButton(
-            text=f"{info['emoji']} {info['name']} ({format_price(next_cost)})",
+            text=_pet_btn_text(key, f"{info['name']} ({format_price(next_cost)})"),
             callback_data=_cb(uid, "buy", key),
+            icon_custom_emoji_id=_pet_custom_emoji_id(key),
         )
         (row1 if i < 3 else row2).append(btn)
     buttons = []
@@ -278,7 +290,7 @@ async def petname_command(message: Message):
     else:
         owned_types = " | ".join(p["pet_type"] for p in pets)
         current_names = ", ".join(
-            f"{PETS[p['pet_type']]['emoji']} {p['pet_type']}: <b>{p['pet_name'] or 'unnamed'}</b>"
+            f"{_pet_emoji(p['pet_type'])} {p['pet_type']}: <b>{p['pet_name'] or 'unnamed'}</b>"
             for p in pets
         )
         await message.reply(
@@ -297,7 +309,7 @@ async def petname_command(message: Message):
     await db.set_pet_name(user.id, pet_type, name)
     info = PETS[pet_type]
     await message.reply(
-        f"{info['emoji']} Your {info['name']} is now named <b>{name}</b>!"
+        f"{_pet_emoji(pet_type)} Your {info['name']} is now named <b>{name}</b>!"
     )
 
 
@@ -372,7 +384,7 @@ async def pet_callback(callback: CallbackQuery):
         await db.add_balance(uid, -cost, f"Bought {info['name']} pet")
         await db.buy_pet(uid, pet_type)
         await callback.answer(
-            f"🎉 Welcome home, {info['emoji']} {info['name']}!", show_alert=True
+            f"🎉 Welcome home, {_pet_emoji(pet_type)} {info['name']}!", show_alert=True
         )
         text, kb = await _build_pet_view(uid)
         await queue_it(
@@ -387,7 +399,7 @@ async def pet_callback(callback: CallbackQuery):
             await callback.answer("You don't have that pet!", show_alert=True)
             return
         info = PETS[pet_type]
-        sound = random.choice(info["sounds"]["pet"])
+        sound = _resolve_sound(pet_type, random.choice(info["sounds"]["pet"]))
         await db.update_pet_happiness(uid, pet_type, 5)
         name = _display_name(pet)
         back_kb = InlineKeyboardMarkup(
@@ -401,7 +413,7 @@ async def pet_callback(callback: CallbackQuery):
         )
         msg_text = (
             f"🐾 <b>Your Pet</b>\n\n{_pet_header(pet)}\n"
-            f"{info['emoji']} <i>{sound}</i>\n\n"
+            f"{_pet_emoji(pet_type)} <i>{sound}</i>\n\n"
             f"You petted {name}! Happiness +5 💕"
         )
         await queue_it(
@@ -417,7 +429,7 @@ async def pet_callback(callback: CallbackQuery):
             await callback.answer("You don't have that pet!", show_alert=True)
             return
         info = PETS[pet_type]
-        sound = random.choice(info["sounds"]["play"])
+        sound = _resolve_sound(pet_type, random.choice(info["sounds"]["play"]))
         await db.update_pet_happiness(uid, pet_type, 5)
         name = _display_name(pet)
         back_kb = InlineKeyboardMarkup(
@@ -431,7 +443,7 @@ async def pet_callback(callback: CallbackQuery):
         )
         msg_text = (
             f"🐾 <b>Your Pet</b>\n\n{_pet_header(pet)}\n"
-            f"{info['emoji']} <i>{sound}</i>\n\n"
+            f"{_pet_emoji(pet_type)} <i>{sound}</i>\n\n"
             f"You played with {name}! Happiness +5 🎉"
         )
         await queue_it(
@@ -523,7 +535,7 @@ async def pet_callback(callback: CallbackQuery):
         await db.update_pet_happiness(uid, pet_type, total_gain)
         pet = await db.get_pet_by_type(uid, pet_type)
         info = PETS[pet_type]
-        sound = random.choice(info["sounds"]["feed"])
+        sound = _resolve_sound(pet_type, random.choice(info["sounds"]["feed"]))
         emoji = food_info.get("emoji", "🍴")
         name = _display_name(pet)
         qty_str = f"{to_use}× " if to_use > 1 else ""
@@ -538,7 +550,7 @@ async def pet_callback(callback: CallbackQuery):
         )
         msg_text = (
             f"🐾 <b>Your Pet</b>\n\n{_pet_header(pet)}\n"
-            f"{info['emoji']} <i>{sound}</i>\n\n"
+            f"{_pet_emoji(pet_type)} <i>{sound}</i>\n\n"
             f"You fed {name} {qty_str}{emoji} {food_name}! Happiness +{total_gain} 🍽️"
         )
         await queue_it(
@@ -677,7 +689,7 @@ async def pet_callback(callback: CallbackQuery):
             name = _display_name(pet)
             if deficit <= 0:
                 lines.append(
-                    f"{pet_info['emoji']} <b>{name}</b>: already at 100% 😄"
+                    f"{_pet_emoji(pet_type)} <b>{name}</b>: already at 100% 😄"
                 )
                 continue
             # Best food still in stock
@@ -688,7 +700,7 @@ async def pet_callback(callback: CallbackQuery):
             )
             if not best_food:
                 lines.append(
-                    f"{pet_info['emoji']} <b>{name}</b>: no food left 😢"
+                    f"{_pet_emoji(pet_type)} <b>{name}</b>: no food left 😢"
                 )
                 continue
             gain_per = max(5, FOODS[best_food].get("feed_value", 10) // 5)
@@ -700,7 +712,7 @@ async def pet_callback(callback: CallbackQuery):
             await db.update_pet_happiness(uid, pet_type, total_gain)
             f_emoji = FOODS[best_food].get("emoji", "🍴")
             lines.append(
-                f"{pet_info['emoji']} <b>{name}</b>: {to_use}× {f_emoji} → +{total_gain} happiness"
+                f"{_pet_emoji(pet_type)} <b>{name}</b>: {to_use}× {f_emoji} → +{total_gain} happiness"
             )
         result_text = "🍽️ <b>Feed All Pets</b>\n\n" + "\n".join(lines)
         kb = InlineKeyboardMarkup(

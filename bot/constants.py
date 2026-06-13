@@ -1740,152 +1740,202 @@ def get_next_pet_cost(owned_count: int) -> int:
 PETS: dict = {
     "cat": {
         "emoji": "🐈‍⬛",
+        "custom_emoji_id": None,
         "name": "Cat",
         "cost": 1_000_000,
         "sounds": {
             "feed": [
-                "Purrrr~ 😸 *nom nom nom*",
-                "Mrrrow~ 🐱 *sniffs it carefully then eats*",
-                "Meow! 😺 *licks paw after eating*",
-                "Purrr... 😻 *kneads the floor contentedly*",
+                "Purrrr~ {emoji} *nom nom nom*",
+                "Mrrrow~ {emoji} *sniffs it carefully then eats*",
+                "Meow! {emoji} *licks paw after eating*",
+                "Purrr... {emoji} *kneads the floor contentedly*",
             ],
             "pet": [
-                "Meowww~~ 😸 *slow blinks at you*",
-                "Purrrrr~ 🐱 *rubs head against your hand*",
-                "Mrrrow~ 😺 *arches back and stretches*",
-                "Prrrr-meow! 😻 *rolls onto back*",
+                "Meowww~~ {emoji} *slow blinks at you*",
+                "Purrrrr~ {emoji} *rubs head against your hand*",
+                "Mrrrow~ {emoji} *arches back and stretches*",
+                "Prrrr-meow! {emoji} *rolls onto back*",
             ],
             "play": [
-                "Meoow! 🐱 *bats at toy furiously*",
-                "Prrr-meow~ 😸 *chases tail in circles*",
-                "MEOW! 😺 *leaps and pounces!*",
-                "*chirp chirp* 🐱 *stares at invisible thing on the wall*",
+                "Meoow! {emoji} *bats at toy furiously*",
+                "Prrr-meow~ {emoji} *chases tail in circles*",
+                "MEOW! {emoji} *leaps and pounces!*",
+                "*chirp chirp* {emoji} *stares at invisible thing on the wall*",
             ],
         },
     },
     "dog": {
         "emoji": "🐶",
+        "custom_emoji_id": None,
         "name": "Dog",
         "cost": 1_000_000,
         "sounds": {
             "feed": [
-                "Woof! 🐶 *wags tail at mach speed*",
-                "Arf arf! 😋 *scarfs it all down instantly*",
-                "Bork bork! 🐕 Nom nom nom!",
-                "*happy panting* 🐶 *licks bowl completely clean*",
+                "Woof! {emoji} *wags tail at mach speed*",
+                "Arf arf! {emoji} *scarfs it all down instantly*",
+                "Bork bork! {emoji} Nom nom nom!",
+                "*happy panting* {emoji} *licks bowl completely clean*",
             ],
             "pet": [
-                "Woof woof~ 🐶 *licks your entire face*",
-                "Arf! 🐕 *immediately rolls over for belly rubs*",
-                "*tail wagging intensifies* 🐶 *wiggles whole body*",
-                "Wroof~ 😊 *nuzzles deep into your hand*",
+                "Woof woof~ {emoji} *licks your entire face*",
+                "Arf! {emoji} *immediately rolls over for belly rubs*",
+                "*tail wagging intensifies* {emoji} *wiggles whole body*",
+                "Wroof~ {emoji} *nuzzles deep into your hand*",
             ],
             "play": [
-                "WOOF!! 🐶 *does zoomies around the room*",
-                "Bark bark! 🐕 *fetches and drops it at your feet*",
-                "Rowf rowf! 🐶 *spins in happy circles*",
-                "Yip yip! 🐕 *leaps and bounces off the walls*",
+                "WOOF!! {emoji} *does zoomies around the room*",
+                "Bark bark! {emoji} *fetches and drops it at your feet*",
+                "Rowf rowf! {emoji} *spins in happy circles*",
+                "Yip yip! {emoji} *leaps and bounces off the walls*",
             ],
         },
     },
     "horse": {
         "emoji": "🐴",
+        "custom_emoji_id": None,
         "name": "Horse",
         "cost": 1_000_000,
         "sounds": {
             "feed": [
-                "*soft neigh* 🐴 *munches contentedly*",
-                "Neeigh~ 🐎 *nuzzles deep into feed bucket*",
-                "*snorts happily* 🐴 *chomps the whole apple*",
-                "Whinny~ 😊 *stamps hoof in approval*",
+                "*soft neigh* {emoji} *munches contentedly*",
+                "Neeigh~ {emoji} *nuzzles deep into feed bucket*",
+                "*snorts happily* {emoji} *chomps the whole apple*",
+                "Whinny~ {emoji} *stamps hoof in approval*",
             ],
             "pet": [
-                "Neeigh~ 🐴 *shakes mane proudly*",
-                "*warm gentle snort* 🐎 *leans into the pat*",
-                "Whinny whinny~ 🐴 *swishes tail*",
-                "*stamps hoof slowly* 🐎 *nudges you with nose*",
+                "Neeigh~ {emoji} *shakes mane proudly*",
+                "*warm gentle snort* {emoji} *leans into the pat*",
+                "Whinny whinny~ {emoji} *swishes tail*",
+                "*stamps hoof slowly* {emoji} *nudges you with nose*",
             ],
             "play": [
-                "NEEIGH!! 🐴 *gallops in big happy circles*",
-                "*excited trotting* 🐎 *prances around showing off*",
-                "Whinny! 🐴 *rears up playfully*",
-                "*loud snorts* 🐎 *full zoomies mode activated*",
+                "NEEIGH!! {emoji} *gallops in big happy circles*",
+                "*excited trotting* {emoji} *prances around showing off*",
+                "Whinny! {emoji} *rears up playfully*",
+                "*loud snorts* {emoji} *full zoomies mode activated*",
             ],
         },
     },
     "fox": {
         "emoji": "🦊",
+        "custom_emoji_id": None,
         "name": "Fox",
         "cost": 1_000_000,
         "sounds": {
             "feed": [
-                "Yip! 🦊 *grabs food and sprints away*",
-                "*curious nose twitching* 🦊 *nibbles daintily*",
-                "Yiiip~ 🦊 *secretly stashes some for later*",
-                "*soft chittering* 🦊 Nom nom~",
+                "Yip! {emoji} *grabs food and sprints away*",
+                "*curious nose twitching* {emoji} *nibbles daintily*",
+                "Yiiip~ {emoji} *secretly stashes some for later*",
+                "*soft chittering* {emoji} Nom nom~",
             ],
             "pet": [
-                "Yip yip~ 🦊 *flicks fluffy tail happily*",
-                "*happy screech* 🦊 *rolls around on floor*",
-                "Yiiip~ 🦊 *nuzzles your hand*",
-                "*ear flicks* 🦊 *looks away smugly then immediately comes back*",
+                "Yip yip~ {emoji} *flicks fluffy tail happily*",
+                "*happy screech* {emoji} *rolls around on floor*",
+                "Yiiip~ {emoji} *nuzzles your hand*",
+                "*ear flicks* {emoji} *looks away smugly then immediately comes back*",
             ],
             "play": [
-                "YIIIP!! 🦊 *pounces on absolutely everything*",
-                "*fox screech* 🦊 *does impressive parkour*",
-                "Yip yip yip! 🦊 *spins and cartwheels somehow*",
-                "*dramatic screech* 🦊 *leaps off every surface*",
+                "YIIIP!! {emoji} *pounces on absolutely everything*",
+                "*fox screech* {emoji} *does impressive parkour*",
+                "Yip yip yip! {emoji} *spins and cartwheels somehow*",
+                "*dramatic screech* {emoji} *leaps off every surface*",
             ],
         },
     },
     "rabbit": {
         "emoji": "🐰",
+        "custom_emoji_id": None,
         "name": "Rabbit",
         "cost": 1_000_000,
         "sounds": {
             "feed": [
-                "*nose twitching rapidly* 🐰 *nibbles carrot*",
-                "Squeak~ 🐇 *munches greens happily*",
-                "*thump thump* 🐰 *devours everything*",
-                "*binky jump first* 🐇 THEN nom nom",
+                "*nose twitching rapidly* {emoji} *nibbles carrot*",
+                "Squeak~ {emoji} *munches greens happily*",
+                "*thump thump* {emoji} *devours everything*",
+                "*binky jump first* {emoji} THEN nom nom",
             ],
             "pet": [
-                "*BINKIES!* 🐰 *leaps for pure joy*",
-                "Squeak squeak~ 🐇 *licks your finger*",
-                "*nose twitching at max speed* 🐰 *flops over dramatically*",
-                "*purring somehow* 🐇 yes rabbits actually do that~",
+                "*BINKIES!* {emoji} *leaps for pure joy*",
+                "Squeak squeak~ {emoji} *licks your finger*",
+                "*nose twitching at max speed* {emoji} *flops over dramatically*",
+                "*purring somehow* {emoji} yes rabbits actually do that~",
             ],
             "play": [
-                "*MEGA BINKY* 🐰 *zooms at the speed of light*",
-                "Thump thump! 🐇 *binkies keep intensifying*",
-                "*head shake* 🐰 *zooms again and again*",
-                "Squeak! 🐇 *digs a very enthusiastic imaginary hole*",
+                "*MEGA BINKY* {emoji} *zooms at the speed of light*",
+                "Thump thump! {emoji} *binkies keep intensifying*",
+                "*head shake* {emoji} *zooms again and again*",
+                "Squeak! {emoji} *digs a very enthusiastic imaginary hole*",
             ],
         },
     },
     "parrot": {
         "emoji": "🦜",
+        "custom_emoji_id": None,
         "name": "Parrot",
         "cost": 1_000_000,
         "sounds": {
             "feed": [
-                "SQUAWK! 🦜 *grabs food with foot like a hand*",
-                "*loud crunching noises* 🦜 Polly want MORE!",
-                "Awk awk! 🦜 *bobs head while eating*",
-                "*wolf whistle* 🦜 This is delicious!!",
+                "SQUAWK! {emoji} *grabs food with foot like a hand*",
+                "*loud crunching noises* {emoji} Polly want MORE!",
+                "Awk awk! {emoji} *bobs head while eating*",
+                "*wolf whistle* {emoji} This is delicious!!",
             ],
             "pet": [
-                "SQUAAAWK! 🦜 *ruffles all feathers happily*",
-                "*rapid beak clicking* 🦜 Pretty bird~ pretty bird~",
-                "Awk! 🦜 *does a full little dance*",
-                "*wolf whistle* 🦜 *head bobs non-stop*",
+                "SQUAAAWK! {emoji} *ruffles all feathers happily*",
+                "*rapid beak clicking* {emoji} Pretty bird~ pretty bird~",
+                "Awk! {emoji} *does a full little dance*",
+                "*wolf whistle* {emoji} *head bobs non-stop*",
             ],
             "play": [
-                "SQUAAAWK! 🦜 *flies in dramatic circles*",
-                "Awk awk awk! 🦜 *mimics everything you say back at you*",
-                "*full screech* 🦜 *hangs upside down from perch*",
-                "SQUAWK!! 🦜 *spreads wings to maximum width*",
+                "SQUAAAWK! {emoji} *flies in dramatic circles*",
+                "Awk awk awk! {emoji} *mimics everything you say back at you*",
+                "*full screech* {emoji} *hangs upside down from perch*",
+                "SQUAWK!! {emoji} *spreads wings to maximum width*",
+            ],
+        },
+    },
+    "capybara": {
+        "emoji": "🦫",
+        "custom_emoji_id": "6156978916104872051",
+        "name": "Capybara",
+        "cost": 1_000_000,
+        "sounds": {
+            "feed": [
+                "*munches calmly* {emoji} *eats veggies in water*",
+                "Nyum nyum~ {emoji} *sits perfectly still while eating*",
+                "*happy crunching* {emoji} *shares food with nobody*",
+                "*vibing and snacking* {emoji} *slow blinks contentedly*",
+            ],
+            "pet": [
+                "*no reaction* {emoji} *exists peacefully*",
+                "Nmmm~ {emoji} *leans into the scratch slightly*",
+                "*completely unbothered* {emoji} *accepts your presence*",
+                "*tiny content noise* {emoji} *vibes intensify*",
+            ],
+            "play": [
+                "*sits on you* {emoji} *this IS playing*",
+                "*slow waddle* {emoji} *triumphantly sits somewhere new*",
+                "*vibes* {emoji} *blinks once*",
+                "*pond water splash* {emoji} *bath time is play time*",
             ],
         },
     },
 }
+
+
+def _pet_emoji(pet_type: str) -> str:
+    """Return plain emoji for a pet (for use in message text)."""
+    return PETS[pet_type]["emoji"]
+
+
+def _pet_custom_emoji_id(pet_type: str) -> str | None:
+    """Return custom emoji ID if configured, else None."""
+    return PETS[pet_type].get("custom_emoji_id")
+
+
+def _pet_btn_text(pet_type: str, label: str) -> str:
+    """Return button text — label only if custom emoji, else emoji + label."""
+    custom_id = PETS[pet_type].get("custom_emoji_id")
+    if custom_id:
+        return label
+    return f"{PETS[pet_type]['emoji']} {label}"

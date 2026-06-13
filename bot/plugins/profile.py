@@ -12,6 +12,7 @@ from bot.client import client
 from bot.command_registry import reg
 from bot.constants import (
     PETS,
+    _pet_emoji,
     get_crop_display_emoji,
     get_item_display_name,
     parse_item_and_qty,
@@ -305,7 +306,7 @@ async def me_profile(
                 pet["pet_name"] if pet.get("pet_name") else pet_info["name"]
             )
             pet_parts.append(
-                f"{pet_info['emoji']} {display} Lv.{pet['level']} {mood}"
+                f"{_pet_emoji(pet['pet_type'])} {display} Lv.{pet['level']} {mood}"
             )
         text += "  ".join(pet_parts) + "\n"
     text += "\n"
