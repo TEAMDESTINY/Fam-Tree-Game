@@ -1740,7 +1740,7 @@ def get_next_pet_cost(owned_count: int) -> int:
 PETS: dict = {
     "cat": {
         "emoji": "🐈‍⬛",
-        "custom_emoji_id": None,
+        "custom_emoji_id": "6156622034387345616",
         "name": "Cat",
         "cost": 1_000_000,
         "sounds": {
@@ -1766,7 +1766,7 @@ PETS: dict = {
     },
     "dog": {
         "emoji": "🐶",
-        "custom_emoji_id": None,
+        "custom_emoji_id": "6156738586914856770",
         "name": "Dog",
         "cost": 1_000_000,
         "sounds": {
@@ -1792,7 +1792,7 @@ PETS: dict = {
     },
     "horse": {
         "emoji": "🐴",
-        "custom_emoji_id": None,
+        "custom_emoji_id": "6156724834429575475",
         "name": "Horse",
         "cost": 1_000_000,
         "sounds": {
@@ -1818,7 +1818,7 @@ PETS: dict = {
     },
     "fox": {
         "emoji": "🦊",
-        "custom_emoji_id": None,
+        "custom_emoji_id": "6154568133781757125",
         "name": "Fox",
         "cost": 1_000_000,
         "sounds": {
@@ -1844,7 +1844,7 @@ PETS: dict = {
     },
     "rabbit": {
         "emoji": "🐰",
-        "custom_emoji_id": None,
+        "custom_emoji_id": "6156462957388637780",
         "name": "Rabbit",
         "cost": 1_000_000,
         "sounds": {
@@ -1870,7 +1870,7 @@ PETS: dict = {
     },
     "parrot": {
         "emoji": "🦜",
-        "custom_emoji_id": None,
+        "custom_emoji_id": "6156470409156894729",
         "name": "Parrot",
         "cost": 1_000_000,
         "sounds": {
