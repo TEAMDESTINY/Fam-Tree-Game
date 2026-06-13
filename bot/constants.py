@@ -1924,8 +1924,12 @@ PETS: dict = {
 
 
 def _pet_emoji(pet_type: str) -> str:
-    """Return plain emoji for a pet (for use in message text)."""
-    return PETS[pet_type]["emoji"]
+    """Return custom or plain emoji for a pet (for use in message text)."""
+    custom_emoji_id = _pet_custom_emoji_id(pet_type)
+    if not custom_emoji_id:
+        return PETS[pet_type]["emoji"]
+
+    return f"<tg-emoji emoji-id='{custom_emoji_id}'>{PETS[pet_type].get('emoji')}</tg-emoji>"
 
 
 def _pet_custom_emoji_id(pet_type: str) -> str | None:
