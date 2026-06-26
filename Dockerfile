@@ -1,13 +1,15 @@
 # Family Tree Telegram Bot - Dockerfile
+
 FROM python:3.12-slim
 
-# Set environment variables
+# Environment
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
 
-# Set work directory
+# Working directory
 WORKDIR /app
 
+# System dependencies
 RUN apt-get update && apt-get install -y --no-install-recommends \
     gcc \
     libc-dev \
@@ -27,7 +29,6 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     pkg-config \
     cmake \
     python3-dev \
-    # Playwright dependencies
     libnss3 \
     libnspr4 \
     libdbus-1-3 \
@@ -44,16 +45,20 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     libasound2 \
     && rm -rf /var/lib/apt/lists/*
 
-# Copy fonts and update font cache
-COPY assets/fonts/ /usr/share/fonts/famtree/
-RUN fc-cache -f -v
+# Copy entire project
+COPY . .
 
-# Copy requirements and install Python dependencies
-COPY pyproject.toml .
+# Install fonts
+RUN mkdir -p /usr/share/fonts/famtree && \
+    cp -r assets/fonts/* /usr/share/fonts/famtree/ && \
+    fc-cache -f -v
+
+# Install Python package
+RUN pip install --upgrade pip
 RUN pip install --no-cache-dir .
 
-# Install Playwright browsers
+# Install Playwright browser
 RUN playwright install chromium
 
-# Run the bot
+# Start bot
 CMD ["python", "-m", "bot"]
